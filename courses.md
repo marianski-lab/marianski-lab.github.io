@@ -34,13 +34,13 @@ layout: default
 
 | File         | Due date          | Link  | 
 |:-------------|:------------------|:------|
-| Syllabus     |                   | [X](./assets/Courses/PChem_356_F19/Syllabus.pdf)      |
-| Homework I   | 02/22/18          | [X](./assets/Courses/PChem_356_F19/HW1.pdf)     |
-| Homework II  | 03/15/18          | [X](./assets/Courses/PChem_356_F19/HW2.pdf)     |
-| Homework III | 04/18/18          | [X](./assets/Courses/PChem_356_F19/HW3.pdf)     |
-| Homework IV  | 04/18/18          | [X](./assets/Courses/PChem_356_F19/HW4.pdf)   |
-| Homework V   | 05/21/18          | [X](./assets/Courses/PChem_356_F19/HW5.pdf)   |
-| Homework VI  | 05/21/18          | [X](./assets/Courses/PChem_356_F19/HW6.pdf)   |
+| Syllabus     |                   | [X](./assets/Courses/PChem_356_S19/Syllabus.pdf)      |
+| Homework I   | 02/22/18          | [X](./assets/Courses/PChem_356_S19/HW1.pdf)     |
+| Homework II  | 03/15/18          | [X](./assets/Courses/PChem_356_S19/HW2.pdf)     |
+| Homework III | 04/18/18          | [X](./assets/Courses/PChem_356_S19/HW3.pdf)     |
+| Homework IV  | 04/18/18          | [X](./assets/Courses/PChem_356_S19/HW4.pdf)   |
+| Homework V   | 05/21/18          | [X](./assets/Courses/PChem_356_S19/HW5.pdf)   |
+| Homework VI  | 05/21/18          | [X](./assets/Courses/PChem_356_S19/HW6.pdf)   |
 
 
 
