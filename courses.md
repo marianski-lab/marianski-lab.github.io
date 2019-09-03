@@ -9,7 +9,7 @@ layout: default
 | File         | Due date          | Link  | 
 |:-------------|:------------------|:------|
 | Syllabus     |                   | [X](./assets/Courses/PChem_352_F19/Syllabus.pdf)      |
-| Homework I   | 09/10/19          | X     |
+| Homework I   | 09/10/19          | [X](./assets/Courses/PChem_352_F19/HW1.pdf)           |    
 | Homework II  | 09/24/19          | X     |
 | Homework III | 10/22/19          | X     |
 | Homework IV  | 11/01/19          | X   |
