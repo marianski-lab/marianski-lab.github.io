@@ -7,7 +7,7 @@ layout: default
 
 #### 19.''Structural Characterization of Molybdenum Oxide Nanoclusters Using Ion Mobility Spectrometry–Mass Spectrometry and Infrared Action Spectroscopy''
 
->M. Marianski*, J. Seo*, E. Mucha, D. A. Thomas, S. Jung, R. Schlögl, G. Meijer, A. Trunshke, G. von Helden,
+>M. Marianski\*, J. Seo\*, E. Mucha, D. A. Thomas, S. Jung, R. Schlögl, G. Meijer, A. Trunshke, G. von Helden,
 >_Journal of Physical Chemistry C_, **2019**
 
 <img src="/assets/img/moox.gif" alt="drawing" width="400" class="center"/>
@@ -21,14 +21,14 @@ layout: default
 
 #### 17.''In-depth structural analysis of glycans in the gas phase''
 
->E. Mucha*, A. Stuckmann*, M. Marianski*, W. Struwe, G. Meijer, K. Pagel
+>E. Mucha\*, A. Stuckmann\*, M. Marianski\*, W. Struwe, G. Meijer, K. Pagel
 >_Chemical Science_, **2019**, 10, pp.~1272-1284
 
 <img src="/assets/img/glycan.gif" alt="drawing" width="400" class="center"/>
 
 #### 16.''Unravelling the structure of glycosyl cations via cold-ion infrared spectroscopy''
 
->E. Mucha*, M.  Marianski*, F. Xu, D. A. Thomas, G. Meijer, G. von Helden, P. H. Seeberger, K. Pagel
+>E. Mucha\*, M.  Marianski\*, F. Xu, D. A. Thomas, G. Meijer, G. von Helden, P. H. Seeberger, K. Pagel
 >_Nature Communications, **2018**, 9, p.~4174
 
 <img src="/assets/img/glycosyl_cation.png" alt="drawing" width="400" class="center"/>
@@ -63,7 +63,7 @@ layout: default
 
 #### 11. ''The Structure of the Protonated Serine Octamer''
  
-> V. Scutelnic, M. A. S. Perez, M. Marianski, S. Warnke, A. Gregor, U. Rothlisberger, M. T. Bowers, C. Baldauf, G. von Helden, T. Rizzo, J. Seo 
+> V. Scutelnic\*, M. A. S. Perez\*, M. Marianski, S. Warnke, A. Gregor, U. Rothlisberger, M. T. Bowers, C. Baldauf, G. von Helden, T. Rizzo, J. Seo 
 > _Journal of American Chemical Society_, **2018**, 140, pp.~7554-7560
 
 <img src="/assets/img/serine_octamer.gif" alt="drawing" width="400" class="center"/>
@@ -91,7 +91,7 @@ layout: default
 
 #### 7. ''H-Bond isomerization in crystalline cellulose III$_I$: Proton hopping versus hydroxyl flip-flop''
  
-> P. Chen$^*$, M. Marianski$^*$ and C. Baldauf
+> P. Chen\*, M. Marianski\* and C. Baldauf
 > _ACS Macro Letters_, **2016**, 5, pp.~50-54
 
 <img src="/assets/img/cellulose.gif" alt="drawing" width="400" class="center"/>
