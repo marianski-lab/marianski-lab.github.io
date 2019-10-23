@@ -12,7 +12,7 @@ layout: default
 | Homework I   | 09/10/19          | [X](./assets/Courses/PChem_352_F19/HW1.pdf)           |    
 | Homework II  | 09/24/19          | [X](./assets/Courses/PChem_352_F19/HW2.pdf)           |
 | PSI\*        | 09/24/19          | [X](./assets/Courses/PChem_352_F19/PS1.pdf)           |
-| Homework III | 10/22/19          | X     |
+| Homework III | 10/01/19          | [X](./assets/Courses/PChem_352_F19/HW3.pdf)           |
 | Homework IV  | 11/01/19          | X   |
 | Homework V   | 11/22/19          | X   |
 | Homework VI  | 12/10/19          | X   |
