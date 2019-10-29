@@ -18,7 +18,8 @@ layout: default
 | Homework V   | 11/22/19          | X   |
 | Homework VI  | 12/10/19          | X   |
 
-\* Each questions was 25, not 30 pts. Also Problem 4 will be covered in the second part of the lecture. 
+\* Each questions was 25, not 30 pts. Also Problem 4 will be covered in the second part of the lecture.
+ 
 \*\* Problem 2 and 5 will be covered in the 3rd part of the semester. 
 
 
