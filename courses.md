@@ -13,11 +13,14 @@ layout: default
 | Homework II  | 09/24/19          | [X](./assets/Courses/PChem_352_F19/HW2.pdf)           |
 | PSI\*        | 09/24/19          | [X](./assets/Courses/PChem_352_F19/PS1.pdf)           |
 | Homework III | 11/01/19          | [X](./assets/Courses/PChem_352_F19/HW3.pdf)           |
-| Homework IV  | 11/05/19          | X   |
+| Homework IV  | 11/05/19          | [X](./assets/Courses/PChem_352_F19/HW4.pdf)           |
+| PSII\*\*        | 09/24/19          | [X](./assets/Courses/PChem_352_F19/PS2.pdf)        |
 | Homework V   | 11/22/19          | X   |
 | Homework VI  | 12/10/19          | X   |
 
 \* Each questions was 25, not 30 pts. Also Problem 4 will be covered in the second part of the lecture. 
+\*\* Problem 2 and 5 will be covered in the 3rd part of the semester. 
+
 
 #### Fall 2018
 
