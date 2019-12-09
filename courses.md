@@ -14,9 +14,10 @@ layout: default
 | PSI\*        | 09/24/19          | [X](./assets/Courses/PChem_352_F19/PS1.pdf)           |
 | Homework III | 11/01/19          | [X](./assets/Courses/PChem_352_F19/HW3.pdf)           |
 | Homework IV  | 11/05/19          | [X](./assets/Courses/PChem_352_F19/HW4.pdf)           |
-| PSII\*\*     | 09/24/19          | [X](./assets/Courses/PChem_352_F19/PS2.pdf)           |
+| PSII\*\*     | --/--/19          | [X](./assets/Courses/PChem_352_F19/PS2.pdf)           |
 | Homework V   | 12/05/19          | [X](./assets/Courses/PChem_352_F19/HW5.pdf)           |
 | Homework VI  | 12/17/19          | [X](./assets/Courses/PChem_352_F19/HW6.pdf)           |
+| PSIII        | 12/13/19          | [X](./assets/Courses/PChem_352_F19/PS3.pdf)           |
 
 \* Each questions was 25, not 30 pts. Also Problem 4 will be covered in the second part of the lecture.
  
