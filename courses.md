@@ -2,9 +2,9 @@
 layout: default
 ---
 
-## PChem 352
+## PChem 356
 
-#### Fall 2019
+#### Spring 2020
 
 | File         | Due date          | Link  | 
 |:-------------|:------------------|:------|
@@ -31,12 +31,6 @@ layout: default
 | Homework V   | 12/05/19          | [X](./assets/Courses/PChem_352_F19/HW5.pdf)           |
 | Homework VI  | 12/17/19          | [X](./assets/Courses/PChem_352_F19/HW6.pdf)           |
 | PSIII        | 12/13/19          | [X](./assets/Courses/PChem_352_F19/PS3.pdf)           |
-
-######\* Each questions was 25, not 30 pts. Also Problem 4 will be covered in the second part of the lecture.
- 
-######\*\* Problem 2 and 5 will be covered in the 3rd part of the semester. 
-
-######\*\*\* Problem 2 and 5 won't appear on the exam. However, look at the problems 2 & 5 in the PSII. 
 
 
 #### Fall 2018
