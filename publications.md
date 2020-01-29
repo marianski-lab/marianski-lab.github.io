@@ -4,11 +4,18 @@ layout: default
 
 ## List of publications:
 
+#### 20.''Direct Evidence for Remote Participation in Galactose Building Blocks during Glycosylation Revealed by Cryogenic Vibrational Spectroscopy''
+
+>M. Marianski, E. Mucha, K. Greis, D. S. Moon, A. Pardo, C. Kirschbaum, D. A. Thomas, G. Meijer, G. von Helden, K. Gillmore, P. Seeberger, K. Pagel
+>_Angewandte Chemie International Edition, **2020** doi: 10.1002/anie.201916245
+
+<img src="/assets/img/direct_participation.png" alt="drawing" width="400" class="center"/>
+
 
 #### 19.''Structural Characterization of Molybdenum Oxide Nanoclusters Using Ion Mobility Spectrometry–Mass Spectrometry and Infrared Action Spectroscopy''
 
 >M. Marianski\*, J. Seo\*, E. Mucha, D. A. Thomas, S. Jung, R. Schlögl, G. Meijer, A. Trunshke, G. von Helden,
->_Journal of Physical Chemistry C_, **2019**
+>_Journal of Physical Chemistry C_, **2019**, 123, 7845-7853
 
 <img src="/assets/img/moox.gif" alt="drawing" width="400" class="center"/>
 
@@ -50,14 +57,14 @@ layout: default
 #### 13. ''Ground-State Structure of the Proton-Bound Formate Dimer by Cold-Ion Infrared Action Spectroscopy''
 
 >D. A. Thomas, M. Marianski, E. Mucha, G. Meijer, M. A. Johnson, G. von Helden
->_Angewandte Chemistry. International Edition_, **2018**, 57, pp.~10615–10619
+>_Angewandte Chemie International Edition_, **2018**, 57, pp.~10615–10619
 
 <img src="/assets/img/formate_dimer.png" alt="drawing" width="400" class="center"/>
 
 #### 12. ''Fucose Migration in Intact Protonated Glycan Ions: A Universal Phenomenon in Mass Spectrometry''
 
 > E. Mucha, M. Lettow, M. Marianski, D. A. Thomas, W. B. Struwe, D. J. Harvey, K. Pagel,
-> _Angewandte Chemistry International Edition_, **2018**, 57, pp.~7440–7443
+> _Angewandte Chemie International Edition_, **2018**, 57, pp.~7440–7443
 
 <img src="/assets/img/fucose_migration-2.jpg" alt="drawing" width="400" class="center"/>
 
@@ -71,7 +78,7 @@ layout: default
 #### 10. ''Glycan fingerprinting using cold-ion infrared spectroscopy'' 
 
 >E. Mucha, A. I. Gonz\'{a}lez Fl\'{o}res, M. Marianski, D. A. Thomas, W. Hoffmann, W. B. Struwe, H. S. Hahm, S. Gewinner, W. Sch\"{o}llkopf, P. H. Seeberger, G. von Helden and K. Pagel
-> _Angewandte Chemistry International Edition_, **2017**, 56, pp.~11248-11251
+> _Angewandte Chemie International Edition_, **2017**, 56, pp.~11248-11251
 
 <img src="/assets/img/Glycan-Fingerprint.png" alt="drawing" width="400" class="center"/>
 
