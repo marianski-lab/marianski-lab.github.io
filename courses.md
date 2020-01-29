@@ -8,6 +8,19 @@ layout: default
 
 | File         | Due date          | Link  | 
 |:-------------|:------------------|:------|
+| Syllabus     |                   | [X](./assets/Courses/PChem_356_S20/Syllabus.pdf)      |
+| Homework I   | 02/25/20          | X           |    
+| Homework II  | 03/17/20          | X           |
+| Homework III | 04/17/20          | X           |
+| Homework IV  | 05/19/20          | X           |
+
+
+## PChem 352
+
+#### Fall 2019
+
+| File         | Due date          | Link  | 
+|:-------------|:------------------|:------|
 | Syllabus     |                   | [X](./assets/Courses/PChem_352_F19/Syllabus.pdf)      |
 | Homework I   | 09/10/19          | [X](./assets/Courses/PChem_352_F19/HW1.pdf)           |    
 | Homework II  | 09/24/19          | [X](./assets/Courses/PChem_352_F19/HW2.pdf)           |
@@ -19,11 +32,11 @@ layout: default
 | Homework VI  | 12/17/19          | [X](./assets/Courses/PChem_352_F19/HW6.pdf)           |
 | PSIII        | 12/13/19          | [X](./assets/Courses/PChem_352_F19/PS3.pdf)           |
 
-\* Each questions was 25, not 30 pts. Also Problem 4 will be covered in the second part of the lecture.
+######\* Each questions was 25, not 30 pts. Also Problem 4 will be covered in the second part of the lecture.
  
-\*\* Problem 2 and 5 will be covered in the 3rd part of the semester. 
+######\*\* Problem 2 and 5 will be covered in the 3rd part of the semester. 
 
-\*\*\* Problem 2 and 5 won't appear on the exam. However, look at the problems 2 & 5 in the PSII. 
+######\*\*\* Problem 2 and 5 won't appear on the exam. However, look at the problems 2 & 5 in the PSII. 
 
 
 #### Fall 2018

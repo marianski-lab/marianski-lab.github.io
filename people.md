@@ -26,7 +26,7 @@ layout: default
 
 ## Graduate Students:
 
-### Dhwanit Dave
+### Dhwanit Dave 
 
 ## Undergraduate Students:
 
@@ -35,6 +35,8 @@ layout: default
 ### Genrietta Yagdayeva
 
 ### Cesear Rene Pabon
+
+### Shonel Rahim 
 
 ## High-school Students:
 

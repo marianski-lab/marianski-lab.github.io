@@ -135,6 +135,7 @@ layout: default
  
 > M. Marianski, A. Asensio and J.J. Dannenberg
 > _Journal of Chemical Physics_, **2012**, 137, p.~044109
+> doi: [10.1063/1.4737517](https://aip.scitation.org/doi/full/10.1063/1.4737517)
 
 #### 3. ''A Reinvestigation of the Dimer of para-Benzoquinone and Pyrimidine with MP2, CCSD(T), and DFT Using Functionals Including Those Designed to Describe Dispersion'' 
  
