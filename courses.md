@@ -18,7 +18,7 @@ layout: default
 
 
 
-| File         | Dat    e          | Link  | 
+| File         | Date              | Link  | 
 |:-------------|:------------------|:------|
 | CH7 - Variational Principle and Perturbation Theory   |    03/31/20               | [X](./assets/Courses/PChem_356_S20/CH7-notes.pdf)    |
 
