@@ -16,6 +16,16 @@ layout: default
 | Homework III | 04/17/20          | X           |
 | Homework IV  | 05/19/20          | X           |
 
+
+
+| File         | Dat    e          | Link  | 
+|:-------------|:------------------|:------|
+| CH7 - Variational Principle and Perturbation Theory   |    03/31/20               | [X](./assets/Courses/PChem_356_S20/CH7-notes.pdf)    |
+
+
+
+
+
 #### Spring 2019
 
 | File         | Due date          | Link  | 
