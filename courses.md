@@ -9,10 +9,9 @@ layout: default
 | File         | Due date          | Link  | 
 |:-------------|:------------------|:------|
 | Syllabus     |                   | [X](./assets/Courses/PChem_356_S20/Syllabus.pdf)    |
+| Syllabus-update     |                   | [X](./assets/Courses/PChem_356_S20/Syllabus-update.pdf)    |
 | Homework I   | 02/25/20          | [X](./assets/Courses/PChem_356_S20/HW1.pdf)         |    
 | Homework II  | 03/17/20          | [X](./assets/Courses/PChem_356_S20/HW2.pdf)         |
-| PSI          | Ex-2              | [X](./assets/Courses/PChem_356_S20/PS1.pdf)         |
-| PSII         | Ex-2              | [X](./assets/Courses/PChem_356_S20/PS2.pdf)         | 
 | Homework III | 04/17/20          | X           |
 | Homework IV  | 05/19/20          | X           |
 
