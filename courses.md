@@ -20,7 +20,7 @@ layout: default
 | File         | Date              | Link  | 
 |:-------------|:------------------|:------|
 | CH7 - Variational Principle and Perturbation Theory   |    03/31/20               | [X](./assets/Courses/PChem_356_S20/CH7-notes.pdf)    |
-
+| CH8-1 - Electron Spin and Postulate 6                 |    04/03/20               | [X](./assets/Courses/PChem_356_S20/CH8-1-notes.pdf)    |
 
 
 
