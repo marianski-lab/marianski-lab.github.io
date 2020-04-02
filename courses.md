@@ -4,34 +4,36 @@ layout: default
 
 ## PChem 356
 
-#### Spring 2020
+### Spring 2020
+
+#### HW and Syllabus
 
 | File         | Due date          | Link  | 
 |:-------------|:------------------|:------|
 | Syllabus     |                   | [X](./assets/Courses/PChem_356_S20/Syllabus.pdf)    |
-| Syllabus-update     |                   | [X](./assets/Courses/PChem_356_S20/Syllabus-update.pdf)    |
+| Syllabus-update     |            | [X](./assets/Courses/PChem_356_S20/Syllabus-update.pdf)    |
 | Homework I   | 02/25/20          | [X](./assets/Courses/PChem_356_S20/HW1.pdf)         |    
 | Homework II  | 03/17/20          | [X](./assets/Courses/PChem_356_S20/HW2.pdf)         |
 | Homework III | 04/17/20          | X           |
 | Homework IV  | 05/19/20          | X           |
 
 
-##### Lecture Notes:
+#### Lecture Notes:
 
 
 | Notes        | Date              | Link  | 
 |:-------------|:------------------|:------|
-| CH7 - Variational Principle and Perturbation Theory   |    03/31/20               | [X](./assets/Courses/PChem_356_S20/CH7-notes.pdf)    |
-| CH8-1 - Electron Spin and Postulate 6                 |    04/03/20               | [X](./assets/Courses/PChem_356_S20/CH8-1-notes.pdf)    |
+| CH7 - Variational Principle and Perturbation Theory   | 03/31/20   | [X](./assets/Courses/PChem_356_S20/CH7-notes.pdf)    |
+| CH8-1 - Electron Spin and Postulate 6                 | 04/03/20   | [X](./assets/Courses/PChem_356_S20/CH8-1-notes.pdf)    |
 
-##### Office Hours Notes
+#### Office Hours Notes
 
 | Notes        | Date              | Link  | 
 |:-------------|:------------------|:------|
-| OH1   |    04/03/20               | [X](./assets/Courses/PChem_356_S20/OH-1.pdf)    |
+| OH1          |    04/03/20       | [X](./assets/Courses/PChem_356_S20/OH-1.pdf)    |
 
 
-#### Spring 2019
+### Spring 2019
 
 | File         | Due date          | Link  | 
 |:-------------|:------------------|:------|
@@ -45,7 +47,7 @@ layout: default
 
 ## PChem 352
 
-#### Fall 2019
+### Fall 2019
 
 | File         | Due date          | Link  | 
 |:-------------|:------------------|:------|
@@ -61,7 +63,7 @@ layout: default
 | PSIII        | 12/13/19          | [X](./assets/Courses/PChem_352_F19/PS3.pdf)           |
 
 
-#### Fall 2018
+### Fall 2018
 
 | File         | Due date          | Link  | 
 |:-------------|:------------------|:------|
