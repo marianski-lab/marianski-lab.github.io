@@ -4,10 +4,18 @@ layout: default
 
 ## List of publications:
 
+#### 21.''Synthesis and Binding of Mannose-Specific Synthetic Carbohydrate Receptors
+
+> F. Bravo, K. Palanichamy,  M. A. Shlain, F. Schiro, Y. Naeem, M. Marianski, A.  B. Braunschweig
+>_Chemistry - European Journal_ , _Just Accepted_, **2020** 
+>doi: [10.1002/anie.201916245](https://onlinelibrary.wiley.com/doi/10.1002/anie.201916245)
+
+<img src="/assets/img/BP_receptor2.png" alt="drawing" width="400" class="center"/>
+
 #### 20.''Direct Evidence for Remote Participation in Galactose Building Blocks during Glycosylation Revealed by Cryogenic Vibrational Spectroscopy''
 
 >M. Marianski, E. Mucha, K. Greis, D. S. Moon, A. Pardo, C. Kirschbaum, D. A. Thomas, G. Meijer, G. von Helden, K. Gillmore, P. Seeberger, K. Pagel
->_Angewandte Chemie International Edition_, **2020** 
+>_Angewandte Chemie International Edition_, _Available Online_, **2020** 
 >doi: [10.1002/anie.201916245](https://onlinelibrary.wiley.com/doi/10.1002/anie.201916245)
 
 <img src="/assets/img/direct_participation.png" alt="drawing" width="400" class="center"/>
@@ -55,7 +63,7 @@ layout: default
 
 #### 14. ''Binding Studies on a Library of Induced-Fit Synthetic Carbohydrate Receptors with Mannoside Selectivity''
  
-> K. Palanichamy, M. F.  Bravo, M. A. Shlain, F. Schiro, Y. Naeem, M. Marianski, A. B. Braunschweig, A. B. 
+> K. Palanichamy,  F. Bravo, M. A. Shlain, F. Schiro, Y. Naeem, M. Marianski, A. B. Braunschweig,
 >_Chemistry European Journal_, **2018**,  24, pp.~13971–13982
 > doi: [10.1002/chem.201803317](https://onlinelibrary.wiley.com/doi/full/10.1002/chem.201803317)
 
