@@ -4,6 +4,9 @@ layout: default
 
 ## List of publications:
 
+### ORCID:[0000-0002-6566-9931](http://orcid.org/0000-0002-6566-9931)
+### [Google Scholar](https://scholar.google.com/citations?user=UXI-3uUAAAAJ)
+
 #### 21.''Synthesis and Binding of Mannose-Specific Synthetic Carbohydrate Receptors
 
 > F. Bravo, K. Palanichamy,  M. A. Shlain, F. Schiro, Y. Naeem, M. Marianski, A.  B. Braunschweig,
