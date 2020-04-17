@@ -26,6 +26,7 @@ layout: default
 | CH7 - Variational Principle and Perturbation Theory   | 03/31/20   | [X](./assets/Courses/PChem_356_S20/CH7-notes.pdf)    |
 | CH8-1 - Electron Spin and Postulate 6                 | 04/03/20   | [X](./assets/Courses/PChem_356_S20/CH8-1-notes.pdf)    |
 | CH8-2 - Atomic Terms                                  | 04/13/20   | [X](./assets/Courses/PChem_356_S20/CH8-2-notes.pdf)    |
+| CH9-1 - H2+ Molecule                                  | 04/17/20   | [X](./assets/Courses/PChem_356_S20/CH9-1-notes.pdf)    |
 
 #### Office Hours Notes
 
