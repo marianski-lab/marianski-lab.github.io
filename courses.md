@@ -33,7 +33,7 @@ layout: default
 | Notes        | Date              | Link  | 
 |:-------------|:------------------|:------|
 | OH1          |    04/03/20       | [X](./assets/Courses/PChem_356_S20/OH-1.pdf)    |
-
+| OH2          |    04/17/20       | [X](./assets/Courses/PChem_356_S20/OH-2.pdf)    |
 
 ### Spring 2019
 
