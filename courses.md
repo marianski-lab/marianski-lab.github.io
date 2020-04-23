@@ -14,7 +14,7 @@ layout: default
 | Syllabus-update     |            | [X](./assets/Courses/PChem_356_S20/Syllabus-update.pdf)    |
 | Homework I   | 02/25/20          | [X](./assets/Courses/PChem_356_S20/HW1.pdf)         |    
 | Homework II  | 03/17/20          | [X](./assets/Courses/PChem_356_S20/HW2.pdf)         |
-| Homework III | 04/17/20          | X           |
+| Homework III | 05/19/20          | [X](./assets/Courses/PChem_356_S20/HW3.pdf)         |           |
 | Homework IV  | 05/19/20          | X           |
 
 
