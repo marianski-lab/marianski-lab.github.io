@@ -28,6 +28,7 @@ layout: default
 | CH8-2 - Atomic Terms                                  | 04/13/20   | [X](./assets/Courses/PChem_356_S20/CH8-2-notes.pdf)    |
 | CH9-1 - H2+ Molecule                                  | 04/17/20   | [X](./assets/Courses/PChem_356_S20/CH9-1-notes.pdf)    |
 | CH9-2 - Molecular Orbilats                            | 04/21/20   | [X](./assets/Courses/PChem_356_S20/CH9-2-notes.pdf)    |
+| CH10  - Polyatomic Molecules and Huckel               | 04/24/20   | [X](./assets/Courses/PChem_356_S20/CH10-notes.pdf)    |
 
 #### Office Hours Notes
 
