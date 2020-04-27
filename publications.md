@@ -18,7 +18,7 @@ layout: default
 #### 20.''Direct Evidence for Remote Participation in Galactose Building Blocks during Glycosylation Revealed by Cryogenic Vibrational Spectroscopy''
 
 >M. Marianski, E. Mucha, K. Greis, D. S. Moon, A. Pardo, C. Kirschbaum, D. A. Thomas, G. Meijer, G. von Helden, K. Gillmore, P. Seeberger, K. Pagel,
->_Angewandte Chemie International Edition_, _Available Online_, **2020** 
+>_Angewandte Chemie International Edition_, **2020**, 59, pp.~6166-6171
 >doi: [10.1002/anie.201916245](https://onlinelibrary.wiley.com/doi/10.1002/anie.201916245)
 
 <img src="/assets/img/direct_participation.png" alt="drawing" width="400" class="center"/>
@@ -27,7 +27,7 @@ layout: default
 #### 19.''Structural Characterization of Molybdenum Oxide Nanoclusters Using Ion Mobility Spectrometry–Mass Spectrometry and Infrared Action Spectroscopy''
 
 >M. Marianski\*, J. Seo\*, E. Mucha, D. A. Thomas, S. Jung, R. Schlögl, G. Meijer, A. Trunshke, G. von Helden,
->_Journal of Physical Chemistry C_, **2019**, 123, 7845-7853
+>_Journal of Physical Chemistry C_, **2019**, 123, pp. 7845-7853
 >doi: [10.1021/acs.jpcc.8b06985](https://pubs.acs.org/doi/10.1021/acs.jpcc.8b06985)
 
 <img src="/assets/img/moox.gif" alt="drawing" width="400" class="center"/>
