@@ -4,7 +4,7 @@ layout: default
 
 # Dr. Mateusz Marianski
 
-![MM](/assets/img/MMarianski.jpg)
+<img src="/assets/img/MMarianski.jpg" alt="drawing" width="400" class="left"/>
 
 
 **Office Location**: HN-1321B
@@ -15,15 +15,17 @@ layout: default
 
 ### Education:
 
-- 2005-2009: M.Sc. University of Wroclaw, Poland 
-  - Supervisor: Robert Wieczorek                                                                                                                                        
+- 2013-2018: Postdoc Fritz-Haber-Institut der Max-Planck-Gesellschaft, Berlin, Germany
+  - Groups of Carsten Baldauf and Gert von Helden
 - 2009-2013: Ph.D. Graduate Center and Hunter College, CUNY                                                                                                             
-  - Supervisor: Joseph J. Dannenberg                                                                                                                                    
-- 2013-2018: Postdoc Fritz-Haber-Institut der Max-Planck-Gesellschaft, Berlin, Germany                                                                                  
-  - Supervisor: Carsten Baldauf and Gert von Helden  
+  - PhD Supervisor: Joseph J. Dannenberg 
+- 2005-2009: M.Sc. University of Wroclaw, Poland
+  - MSc Supervisor: Robert Wieczorek
 
-### ORCID:[0000-0002-6566-9931](http://orcid.org/0000-0002-6566-9931)
-### [Google Scholar](https://scholar.google.com/citations?user=UXI-3uUAAAAJ)
+### Publications: 
+
+- ORCID:[0000-0002-6566-9931](http://orcid.org/0000-0002-6566-9931)
+- [Google Scholar](https://scholar.google.com/citations?user=UXI-3uUAAAAJ)
 
 # Current group members:
 
@@ -31,7 +33,7 @@ layout: default
 
 ### Beicer Tapia
 
-#### Research Interest: 
+**Research Interest:** Basis of molecular recognition of 
 
 ### Dhwanit Dave 
 
@@ -41,15 +43,15 @@ layout: default
 
 ### Genrietta Yagdayeva
 
-#### Research Interest: Binding between Synthetic Carbohydrate Receptors and O-glycans investigated by molecular dynamics. 
+**Research Interest:** Gretta looks at binding between synthetic carbohydrate receptors and a class of O-glycans, common modification of proteins, using methods of molecular dynamics simulations. 
 
 ### Shonel Rahim 
 
-#### Research Interest: Computational analysis of vibrational signatures of carbohydrates in a gas phase.
+**Research Interest:** Shonel works at python implementation of a package for numeric analysis of IR-vibrational spectral sigunatures of small molecules derived from quantum calculations. 
 
 ### Ryan Kwok 
 
-#### Research Interest: How modification of the electronic properties of participating groups affect the stereoselectivity of the glycosyl donor.  
+**Research Interest:** Ryans uses methods of density-functional theory to investigate how modification of the electronic properties of participating groups of glycosyl donor affect the stereochemical output of the glycosylation reaction.  
 
 # Past group memebrs:
 
