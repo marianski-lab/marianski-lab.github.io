@@ -13,7 +13,7 @@ layout: default
 >_Biochemistry_ , _Just Accepted_, **2020**
 >doi: [10.1021/acs.biochem.0c00732](https://pubs.acs.org/doi/abs/10.1021/acs.biochem.0c00732)
 
-<img src="/assets/img/flexibleSCR.png" alt="drawing" width="400" class="center"/>
+<img src="/assets/img/flexibleSCR.jpg" alt="drawing" width="400" class="center"/>
 
 #### 21.''Synthesis and Binding of Mannose-Specific Synthetic Carbohydrate Receptors
 
