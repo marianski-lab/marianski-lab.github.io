@@ -13,6 +13,8 @@ layout: default
 >_Biochemistry_ , _Just Accepted_, **2020**
 >doi: [10.1021/acs.biochem.0c00732](https://pubs.acs.org/doi/abs/10.1021/acs.biochem.0c00732)
 
+<img src="/assets/img/flexibleSCR.png" alt="drawing" width="400" class="center"/>
+
 #### 21.''Synthesis and Binding of Mannose-Specific Synthetic Carbohydrate Receptors
 
 > F. Bravo, K. Palanichamy,  M. A. Shlain, F. Schiro, Y. Naeem, M. Marianski, A.  B. Braunschweig,
@@ -28,7 +30,6 @@ layout: default
 >doi: [10.1002/anie.201916245](https://onlinelibrary.wiley.com/doi/10.1002/anie.201916245)
 
 <img src="/assets/img/direct_participation.png" alt="drawing" width="400" class="center"/>
-
 
 #### 19.''Structural Characterization of Molybdenum Oxide Nanoclusters Using Ion Mobility Spectrometry–Mass Spectrometry and Infrared Action Spectroscopy''
 
