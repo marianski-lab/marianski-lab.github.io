@@ -2,7 +2,7 @@
 layout: default
 ---
 
-#Carbohydrates - more than your daily energy shot. 
+# Carbohydrates - more than your daily energy shot. 
 
 Carbohydrates, one of the three important classes of biopolymers, are involved in a range of biological processes: they serve as structural polymer, energy storage and recognition module in immune system or cell-cell communication. Their multiple functions in living organism are facilitated by properties of the monomer: whereas other biopolymers assembles in a linear fashion, several distinct possibilities for glycosidic bond formation bolster the accessible structural space of carbohydrates over those available for nucleotides and peptides. Moreover, carbohydrates frequently differ only in spatial configuration of atoms, they carry the same mass-over-charge ratio and, hence, they are indistinguishable in a conventional mass spectrometry analysis and requires more elaborate techniques. These complications in glycoanalitics caused that glycomics lags behind more mature fields of genomics and proteomics. In the consequence, the relation between the carbohydrate sequence and the structure (hence function) it adopts remains largely unknown.
 
@@ -28,6 +28,7 @@ In the lab, we focus on theoretical understanding of in-depth relation between t
 
 
 
+![glycR](/assets/img/glycR.png)
 
 # 3. Selectivity of Synthetic Carbohydrate Receptors towards viral glycans
 
@@ -35,5 +36,5 @@ In the lab, we focus on theoretical understanding of in-depth relation between t
 
 
 
-![SCR-Nglyca](/assets/img/TrajBing.png)
+![SCR-Nglyca](/assets/img/TrajBind.png)
 
