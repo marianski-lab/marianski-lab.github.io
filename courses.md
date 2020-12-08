@@ -2,55 +2,20 @@
 layout: default
 ---
 
-## PChem 356
-
-### Spring 2020
-
-#### HW and Syllabus
-
-| File         | Due date          | Link  | 
-|:-------------|:------------------|:------|
-| Syllabus     |                   | [X](./assets/Courses/PChem_356_S20/Syllabus.pdf)    |
-| Syllabus-update     |            | [X](./assets/Courses/PChem_356_S20/Syllabus-update.pdf)    |
-| Homework I   | 02/25/20          | [X](./assets/Courses/PChem_356_S20/HW1.pdf)         |    
-| Homework II  | 03/17/20          | [X](./assets/Courses/PChem_356_S20/HW2.pdf)         |
-| Homework III | 05/19/20          | [X](./assets/Courses/PChem_356_S20/HW3.pdf)         |           |
-| Homework IV  | 05/19/20          | X           |
-
-
-#### Lecture Notes:
-
-
-| Notes        | Date              | Link  | 
-|:-------------|:------------------|:------|
-| CH7 -   VP and PT                                     | 03/31/20   | [X](./assets/Courses/PChem_356_S20/CH7-notes.pdf)    |
-| CH8-1 - Electron Spin and Postulate 6                 | 04/03/20   | [X](./assets/Courses/PChem_356_S20/CH8-1-notes.pdf)    |
-| CH8-2 - Atomic Terms                                  | 04/13/20   | [X](./assets/Courses/PChem_356_S20/CH8-2-notes.pdf)    |
-| CH9-1 - H2+ Molecule                                  | 04/17/20   | [X](./assets/Courses/PChem_356_S20/CH9-1-notes.pdf)    |
-| CH9-2 - Molecular Orbilats                            | 04/21/20   | [X](./assets/Courses/PChem_356_S20/CH9-2-notes.pdf)    |
-| CH10  - Polyatomic Molecules and Huckel               | 04/24/20   | [X](./assets/Courses/PChem_356_S20/CH10-notes.pdf)    |
-| CH13  - Molecular Spectroscopy                        | 04/30/20   | [X](./assets/Courses/PChem_356_S20/CH13-notes.pdf)    |
-
-#### Office Hours Notes
-
-| Notes        | Date              | Link  | 
-|:-------------|:------------------|:------|
-| OfficeHours          |    04/03/20       | [X](./assets/Courses/PChem_356_S20/OH-1.pdf)    |
-| OfficeHours          |    04/17/20       | [X](./assets/Courses/PChem_356_S20/OH-2.pdf)    |
-
-### Spring 2019
-
-| File         | Due date          | Link  | 
-|:-------------|:------------------|:------|
-| Syllabus     |                   | [X](./assets/Courses/PChem_356_S19/Syllabus.pdf)      |
-| Homework I   | 02/22/18          | [X](./assets/Courses/PChem_356_S19/HW1.pdf)     |
-| Homework II  | 03/15/18          | [X](./assets/Courses/PChem_356_S19/HW2.pdf)     |
-| Homework III | 04/18/18          | [X](./assets/Courses/PChem_356_S19/HW3.pdf)     |
-| Homework IV  | 04/18/18          | [X](./assets/Courses/PChem_356_S19/HW4.pdf)   |
-| Homework V   | 05/21/18          | [X](./assets/Courses/PChem_356_S19/HW5.pdf)   |
-| Homework VI  | 05/21/18          | [X](./assets/Courses/PChem_356_S19/HW6.pdf)   |
-
 ## PChem 352
+
+
+### Fall 2020
+
+| File         | Due date          | Link  |
+|:-------------|:------------------|:------|
+| Syllabus     |                   | [X](./assets/Courses/PChem_352_F20/syllabus.pdf)      |
+| Homework I   | 09/25/20          | [X](./assets/Courses/PChem_352_F20/HW1.pdf)           |
+| Homework II  | 10/25/20          | [X](./assets/Courses/PChem_352_F20/HW2.pdf)           |
+| Homework III | 11/17/20          | [X](./assets/Courses/PChem_352_F20/HW3.pdf)           |
+| Homework IV  | 11/15/20          | [X](./assets/Courses/PChem_352_F20/HW4.pdf)           |
+
+
 
 ### Fall 2019
 
@@ -79,5 +44,31 @@ layout: default
 | Homework IV  | 11/14/18          | [X](./assets/Courses/PChem_352_F18/HW4.pdf)   |
 | Homework V   | 12/14/18          | [X](./assets/Courses/PChem_352_F18/HW5.pdf)   |
 | Homework VI  | 12/14/18          | [X](./assets/Courses/PChem_352_F18/HW6.pdf)   |
+
+
+## PChem 356
+
+### Spring 2020
+
+| File         | Due date          | Link  |
+|:-------------|:------------------|:------|
+| Syllabus     |                   | [X](./assets/Courses/PChem_356_S20/Syllabus.pdf)               |
+| Syllabus-update     |            | [X](./assets/Courses/PChem_356_S20/Syllabus-update.pdf)        |
+| Homework I   | 02/25/20          | [X](./assets/Courses/PChem_356_S20/HW1.pdf)                    | 
+| Homework II  | 03/17/20          | [X](./assets/Courses/PChem_356_S20/HW2.pdf)                    |
+| Homework III | 05/19/20          | [X](./assets/Courses/PChem_356_S20/HW3.pdf)                    |
+
+### Spring 2019
+
+| File         | Due date          | Link  |
+|:-------------|:------------------|:------|
+| Syllabus     |                   | [X](./assets/Courses/PChem_356_S19/Syllabus.pdf)      |
+| Homework I   | 02/22/18          | [X](./assets/Courses/PChem_356_S19/HW1.pdf)     |
+| Homework II  | 03/15/18          | [X](./assets/Courses/PChem_356_S19/HW2.pdf)     |
+| Homework III | 04/18/18          | [X](./assets/Courses/PChem_356_S19/HW3.pdf)     |
+| Homework IV  | 04/18/18          | [X](./assets/Courses/PChem_356_S19/HW4.pdf)   |
+| Homework V   | 05/21/18          | [X](./assets/Courses/PChem_356_S19/HW5.pdf)   |
+| Homework VI  | 05/21/18          | [X](./assets/Courses/PChem_356_S19/HW6.pdf)   |
+
 
 [back](./)
