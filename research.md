@@ -24,7 +24,7 @@ In the lab, we focus on theoretical understanding of in-depth relation between t
 
 ![Benchmark](/assets/img/benchmark_plots.png)
 
-# 2. Reactivity of cabrohydrates:
+# 2. Reactivity of carbohydrates:
 
 
 
