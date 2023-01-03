@@ -2,13 +2,13 @@
 layout: default
 ---
 
-# Dr. Mateusz Marianski
+# Principal Investigator
+---
+## Dr. Mateusz Marianski
 
 <img src="/assets/img/MMarianski.jpg" alt="drawing" width="500" class="left"/>
 
 **Research Statement**: The 
-
-
 
 
 **Office Location**: HN-1321B
@@ -32,7 +32,7 @@ layout: default
 - [Google Scholar](https://scholar.google.com/citations?user=UXI-3uUAAAAJ)
 
 # Current group members:
-
+---
 ## Graduate students:
 
 ### <a href="btapia@gradcenter.cuny.edu">Beicer Tapia</a> 
@@ -47,8 +47,6 @@ layout: default
 
 **Methods:** Molecular dynamics simulations (gromacs), quantum calculations (Gaussian16) and data analysis (python). 
 
-
-#### Research Interest: 
 
 ## Undergraduate students:
 
@@ -70,8 +68,8 @@ layout: default
 
 **Methods:** Quantum chemical calculations (Gaussian16 and FHI-aims)
 
-# Past group memebrs:
-
+# Group Alumni:
+---
 ### Wonsuk Lee (UG  -- Currently applying for Medical Schools))
 
 ### Cesar Pabon (UG)

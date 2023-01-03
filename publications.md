@@ -7,15 +7,43 @@ layout: default
 ### ORCID:[0000-0002-6566-9931](http://orcid.org/0000-0002-6566-9931)
 ### [Google Scholar](https://scholar.google.com/citations?user=UXI-3uUAAAAJ)
 
-#### 22.''Flexible Synthetic Carbohydrate Receptors as Inhibitors of Viral Attachment"
+#### 26. ''Binding of Synthetic Carbohydrate Receptors to Enveloped Virus Glycans: Insights From Molecular Dynamics Simulations''
+> B. Tapia, G. Yagudayeva, M. F. Bravo, K. Thakur, A. B. Braunschweig, M. Marianski,
+>_Carbohydrate Research_ , **2022**, 518, pp. 108574
+>doi: [10.1016/j.carres.2022.108574](https://www.sciencedirect.com/science/article/pii/S0008621522000751)
+
+<img src="/assets/img/tapia_2022_carbres.jpg" alt="drawing" width="400" class="center"/>
+
+#### 25. ''Regiochemical Effects on the Carbohydrate Binding and Selectivity of Flexible Synthetic Carbohydrate Receptors with Indole and Quinoline Heterocyclic Groups''
+> K. Thakur, M. A. Shlain, M. Marianski, A. B. Braunschweig,
+>_European Journal of Organic Chemistry_ , **2021**, 37, pp. 5262-5274
+>doi: [10.1002/ejoc.202100763](https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/ejoc.202100763)
+
+<img src="/assets/img/thakur_2021_eurjorgchem.jpg" alt="drawing" width="400" class="center"/>
+
+#### 24. ''Binding of Divalent Transition Metal Ions to Immobilized Phosphinic Acid Ligands. Part I. Characterization by Fourier Transform Infrared Spectroscopy''
+> S. D. Alexandratos, X. Zhu, M. Marianski,
+>_Solvent Extraction and Ion Exchange_ , **2021**, 39, pp. 152-165
+>doi: [10.1080/07366299.2020.1831238](https://www.tandfonline.com/doi/abs/10.1080/07366299.2020.1831238)
+
+<img src="/assets/img/alexandratos_2021_solv.png" alt="drawing" width="400" class="center"/>
+
+#### 23. ''Unravelling the Structural Complexity of Glycolipids with Cryogenic Infrared Spectroscopy''
+> C. Kirschbaum, K. Greis, E. Mucha, L. Kain, S. Deng, A. Zappe, S. Gewinner, W. Schöllkopf, G. von Helden, G. Meijer, P. B. Savage, M. Marianski, L. Teyton, K. Pagel,
+>_Nature Communications_ , **2021**, 12, p. 1201
+>doi: [10.1038/s41467-021-21480-1](https://www.nature.com/articles/s41467-021-21480-1)
+
+<img src="/assets/img/kirschbaum_2021_natcomm.png" alt="drawing" width="400" class="center"/>
+
+#### 22.''Flexible Synthetic Carbohydrate Receptors as Inhibitors of Viral Attachment''
 
 > F. Bravo, M. Lema, M. Marianski, A.  B. Braunschweig,
->_Biochemistry_ , _Just Accepted_, **2020**
+>_Biochemistry_ , **2021**, 60, pp. 999-1018
 >doi: [10.1021/acs.biochem.0c00732](https://pubs.acs.org/doi/abs/10.1021/acs.biochem.0c00732)
 
 <img src="/assets/img/flexibleSCR.jpg" alt="drawing" width="400" class="center"/>
 
-#### 21.''Synthesis and Binding of Mannose-Specific Synthetic Carbohydrate Receptors
+#### 21.''Synthesis and Binding of Mannose-Specific Synthetic Carbohydrate Receptors''
 
 > F. Bravo, K. Palanichamy,  M. A. Shlain, F. Schiro, Y. Naeem, M. Marianski, A.  B. Braunschweig,
 >_Chemistry - European Journal_ ,  **2020**, 26, pp. 11782-11795
