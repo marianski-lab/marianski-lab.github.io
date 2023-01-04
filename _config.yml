@@ -5,6 +5,7 @@ people_url: people.html
 public_url: publications.html
 course_url: courses.html
 resear_url: research.html
+contac_url: contact.html
 show_downloads: False 
 google_analytics: 
 theme: jekyll-theme-minimal

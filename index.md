@@ -32,5 +32,5 @@ layout: default
 <br>
 
 <p>
-Here at the Marianski Lab, we use methods of computational chemistry to investigate carbohydrates. Being alike building blocks with complex assembly rules, carbohydrates offer virtually limitless sequence/structural space of biocompatible and biodegradable materials with desirable properties. Being able to understand and synthetically access this 'sugar code' would open new avenues in medicine, therapeutics, chemical sensing, and materials science.
+Here at the Marianski Lab, we use methods of computational chemistry to investigate carbohydrates. Being alike building blocks with complex assembly rules, carbohydrates offer a virtually limitless sequential/structural space for the discovery of biocompatible and biodegradable materials with desirable properties. Being able to understand and synthetically access this 'sugar code' would open new avenues in medicine, therapeutics, chemical sensing, and materials science.
 </p>

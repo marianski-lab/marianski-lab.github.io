@@ -88,10 +88,6 @@ layout: default
 
 # Group alumni:
 ---
-<details>
-<summary>Click Me!</summary>
-<div class="details-content">
-<br>
 <h3> Abner Kahan (UG -- Currently at) </h3>
 
 <h3> Genrietta Yagdayeva (UG -- Currently at) </h3>
@@ -103,8 +99,6 @@ layout: default
 <h3> Cesar Pabon (UG) </h3>
 
 <h3> Benjamin Slater (HS -- Currently at University of Chicago) </h3>
-</div>
-</details>
 
 <br>
 
