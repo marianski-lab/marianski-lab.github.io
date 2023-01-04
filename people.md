@@ -87,10 +87,11 @@ layout: default
 > **Methods:** 
 
 # Group alumni:
+---
 <details>
 <summary>Click Me!</summary>
 <div class="details-content">
-<hr />
+<br>
 <h3> Abner Kahan (UG -- Currently at) </h3>
 
 <h3> Genrietta Yagdayeva (UG -- Currently at) </h3>
