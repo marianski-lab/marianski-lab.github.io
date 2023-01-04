@@ -11,7 +11,7 @@
 }
 
 .slide-container {
-  width: 800px;
+  width: 750px;
   height: 500px;
   margin-left: auto;
   margin-right: auto;
@@ -20,7 +20,7 @@
 }
 
 .image-container {
-  width: 3200px;
+  width: 3000px;
   height: 500px;
   position: relative;
   transition: left 2s;
@@ -53,14 +53,14 @@
 }
 
 #slider-image-2:target ~ .image-container{
-  left: -800px;
+  left: -750px;
 }
 
 #slider-image-3:target ~ .image-container{
-  left: -1600px;
+  left: -1500px;
 }
 
 #slider-image-4:target ~ .image-container{
-  left: -2400px;
+  left: -2250px;
 }
 

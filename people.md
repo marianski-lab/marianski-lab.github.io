@@ -6,7 +6,7 @@ layout: default
 ---
 ## Dr. Mateusz Marianski
 
- <img src="/assets/img/MMarianski.jpg" alt="drawing" width="500" class="left"/>
+<img src="/assets/img/MMarianski.jpg" alt="drawing" width="500" class="left"/>
 
  **Research Statement**: The 
 

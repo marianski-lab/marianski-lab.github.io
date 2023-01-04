@@ -15,10 +15,10 @@ layout: default
  <span id="slider-image-4"></span>
 
  <div class="image-container">
-  <img src="/assets/img/dof.png" class="slider-image" width=800px>
-  <img src="/assets/img/comp_methods.png" class="slider-image" width=800px>
-  <img src="/assets/img/Viruses.png" class="slider-image" width=800px >
-  <img src="/assets/img/flexibleSCR.jpg" class="slider-image" width=800px >
+  <img src="/assets/img/dof.png" class="slider-image" width=750px>
+  <img src="/assets/img/comp_methods.png" class="slider-image" width=750px>
+  <img src="/assets/img/Viruses.png" class="slider-image" width=750px >
+  <img src="/assets/img/flexibleSCR.jpg" class="slider-image" width=750px >
  </div>
 
  <div class="button-container">
