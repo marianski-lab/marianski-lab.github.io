@@ -2,4 +2,6 @@
 layout: default
 ---
 
-# Landing Page: Under Construction
+# Welcome to the Marianski Group Website
+
+<img src="/assets/img/Zika.png" alt=drawing width=1000px>

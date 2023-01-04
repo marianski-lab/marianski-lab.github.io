@@ -86,18 +86,25 @@ layout: default
 > 
 > **Methods:** 
 
-# Group Alumni:
----
-### Abner Kahan (UG -- Currently at)
+# Group alumni:
+<details>
+<summary>Click Me!</summary>
+<div class="details-content">
+<hr />
+<h3> Abner Kahan (UG -- Currently at) </h3>
 
-### Genrietta Yagdayeva (UG -- Currently at)
+<h3> Genrietta Yagdayeva (UG -- Currently at) </h3>
 
-### Shonel Rahim (UG -- Currently at )
+<h3> Shonel Rahim (UG -- Currently at ) </h3>
 
-### Wonsuk Lee (UG  -- Currently applying for Medical Schools))
+<h3> Wonsuk Lee (UG  -- Currently applying for Medical Schools)) </h3>
 
-### Cesar Pabon (UG)
+<h3> Cesar Pabon (UG) </h3>
 
-### Benjamin Slater (HS -- Currently at University of Chicago)
+<h3> Benjamin Slater (HS -- Currently at University of Chicago) </h3>
+</div>
+</details>
+
+<br>
 
 [back](./)
