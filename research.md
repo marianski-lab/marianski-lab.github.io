@@ -31,7 +31,7 @@ In the lab, we focus on theoretical understanding of in-depth relation between t
 
 
 
-![glycR](/assets/img/glycR.png)
+![glycR](/assets/img/glycR_nomagic.png)
 
 # 3 Targeting viral glycans using synthetic carbohydrate receptors
 
