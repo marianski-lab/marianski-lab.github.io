@@ -5,7 +5,11 @@ layout: default
 # Welcome to the Marianski Group Website
 
 ---
+<head>
+<link rel="stylesheet" href="/assets/css/img_slider.css">
+</head>
 
+<body>
 <div class="slider">
  <div class="slides">
   
@@ -56,6 +60,8 @@ setInterval(function(){
 }, 5000);
 
 </script>
+
+</body>
 
 <br>
 
