@@ -6,28 +6,56 @@ layout: default
 
 ---
 
-<br>
+<div class="slider">
+ <div class="slides">
+  
+  <input type="radio" name="radio-btn" id="radio1">
+  <input type="radio" name="radio-btn" id="radio2">
+  <input type="radio" name="radio-btn" id="radio3">
+  <input type="radio" name="radio-btn" id="radio4">
 
-<div class="slide-container">
- <span id="slider-image-1"></span>
- <span id="slider-image-2"></span>
- <span id="slider-image-3"></span>
- <span id="slider-image-4"></span>
+  <div class="slide first">
+   <img src="/assets/img/dof.png" alt="" width=750px>
+  </div>
+  <div class="slide">
+   <img src="/assets/img/comp_methods.png" alt="" width=750px>
+  </div>
+  <div class="slide">
+   <img src="/assets/img/Viruses.png" alt="" width=750px>
+  </div>
+  <div class="slide">
+   <img src="/assets/img/flexibleSCR.jpg" alt="" width=750px>
+  </div>
 
- <div class="image-container">
-  <img src="/assets/img/dof.png" class="slider-image" width=750px>
-  <img src="/assets/img/comp_methods.png" class="slider-image" width=750px>
-  <img src="/assets/img/Viruses.png" class="slider-image" width=750px >
-  <img src="/assets/img/flexibleSCR.jpg" class="slider-image" width=750px >
+  <div class="navigation-auto">
+   <div class="auto-btn1"></div>
+   <div class="auto-btn2"></div>
+   <div class="auto-btn3"></div>
+   <div class="auto-btn4"></div>
+  </div>
+
  </div>
 
- <div class="button-container">
-  <a href="#slider-image-1" class="slider-button"></a>
-  <a href="#slider-image-2" class="slider-button"></a>
-  <a href="#slider-image-3" class="slider-button"></a>
-  <a href="#slider-image-4" class="slider-button"></a>
+ <div class="navigation-manual">
+  <label for="radio1" class="manual-btn"></label>
+  <label for="radio2" class="manual-btn"></label>
+  <label for="radio3" class="manual-btn"></label>
+  <label for="radio4" class="manual-btn"></label>
  </div>
+
 </div>
+
+<script type="text/javascript">
+var counter = 1;
+setInterval(function(){
+ document.getElementById('radio' + counter).checked = true;
+ counter++;
+ if(counter > 4){
+  counter = 1;
+ }
+}, 5000);
+
+</script>
 
 <br>
 
