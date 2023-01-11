@@ -42,7 +42,7 @@ layout: default
 > **Methods:** Molecular dynamics simulations (gromacs) and data analysis (python)
 
 ### <a href="mailto:ddave@gradcenter.cuny.edu">Dhwanit Dave</a> (Member of Rein Uljin group at ASRC)
-> <img src="/assets/img/DDave.jpeg" alt="drawing" width="150" class="left"/>
+> <img src="/assets/img/DDave.jpg" alt="drawing" width="150" class="left"/>
 >
 > **Research Interest:** Understanding how supramolecular interactions of biological building blocks such as amino acids, peptides and carbohydrates. influences properties of materials with applications ranging from catalysis to food-additives. In order to achieve his goals, he uses combination of experimental (at ASRC) as well as computational methods.
 > 
@@ -68,9 +68,9 @@ layout: default
 ### Lusila Vranga
 > <img src="/assets/img/LVranga.jpeg" alt="drawing" width="150" class="left"/>
 >
-> **Research Interest:**
+> **Research Interest:** Lusila investigates interactions between synthetic carbohydrate receptors (SCR) and the glycans that are present in the COVID-19 spike protein. The goal is to create a SCR that would affect the viral activity of the virus by attaching to the glycans that play a crucial role in this activity.
 > 
-> **Methods:** 
+> **Methods:** Molecular dynamics simulations (VMD)
 
 ### Vasilis Kontodimas
 > <img src="/assets/img/VKontodimas.jpeg" alt="drawing" width="150" class="left"/>
