@@ -46,21 +46,21 @@ layout: default
 >
 > **Research Interest:** Understanding how supramolecular interactions of biological building blocks such as amino acids, peptides and carbohydrates. influences properties of materials with applications ranging from catalysis to food-additives. In order to achieve his goals, he uses combination of experimental (at ASRC) as well as computational methods.
 > 
-> **Methods:** Molecular dynamics simulations (gromacs), quantum calculations (Gaussian16) and data analysis (python). 
+> **Methods:** Molecular dynamics simulations (gromacs), quantum calculations (Gaussian16) and data analysis (Python). 
 
 ### <a href="mailto:myaman@gradcenter.cuny.edu">Murat Yaman</a>
 > <img src="/assets/img/MYaman.jpeg" alt="drawing" width="150" class="left"/>
 >
-> **Research Interest:** 
+> **Research Interest:** Murat conducts structural analysis of small molecular glycans via infrared spectroscopy and ab initio molecular dynamics. 
 >
-> **Methods:**
+> **Methods:** Quantum chemical calculations (Gaussian16) and data analysis (Python)
 
 ### <a href="mailto:rkwok@gradcenter.cuny.edu">Ryan Kwok</a>
 > <img src="/assets/img/RKwok.jpeg" alt="drawing" width="150" class="left"/>
 > 
 > **Research Interest:** Ryans uses methods of density-functional theory to investigate how modification of the electronic properties of participating groups of glycosyl donor affect the stereochemical output of the glycosylation reaction.
 > 
-> **Methods:** Quantum chemical calculations (Gaussian16 and FHI-aims)
+> **Methods:** Quantum chemical calculations (Gaussian16, FHI-aims and CP2K)
 
 
 ## Undergraduate students:
