@@ -80,7 +80,7 @@ layout: default
 > **Methods:** 
 
 ### Yusef Wray
-> <img src="/assets/img/YWray.jpeg" alt="drawing" width="150" class="left"/>
+> <img src="/assets/img/YWray.jpg" alt="drawing" width="150" class="left"/>
 >
 > **Research Interest:**                                                                                                                                                                     
 > 
