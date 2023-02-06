@@ -49,7 +49,7 @@ layout: default
 > **Methods:** Molecular dynamics simulations (gromacs), quantum calculations (Gaussian16) and data analysis (Python). 
 
 ### <a href="mailto:myaman@gradcenter.cuny.edu">Murat Yaman</a>
-> <img src="/assets/img/MYaman.jpeg" alt="drawing" width="150" class="left"/>
+> <img src="/assets/img/MYaman.jpg" alt="drawing" width="150" class="left"/>
 >
 > **Research Interest:** Murat conducts structural analysis of small molecular glycans via infrared spectroscopy and ab initio molecular dynamics. 
 >
@@ -75,9 +75,9 @@ layout: default
 ### Vasilis Kontodimas
 > <img src="/assets/img/VKontodimas.jpeg" alt="drawing" width="150" class="left"/>
 >
-> **Research Interest:**  
+> **Research Interest:** Vasilis studies fucose migration on blood group sugars. 
 > 
-> **Methods:** 
+> **Methods:** Data analysis (Python)
 
 ### Yusef Wray
 > <img src="/assets/img/YWray.jpg" alt="drawing" width="150" class="left"/>
@@ -99,7 +99,7 @@ layout: default
 ---
 <h3> Abner Kahan (UG -- Currently at) </h3>
 
-<h3> Genrietta Yagdayeva (UG -- Currently at) </h3>
+<h3> Genrietta Yagdayeva (UG -- Currently a graduate student at Saint John's University) </h3>
 
 <h3> Wonsuk Lee (UG  -- Currently applying for Medical Schools)) </h3>
 
