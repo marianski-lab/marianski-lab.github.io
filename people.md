@@ -35,7 +35,7 @@ layout: default
 ## Graduate students:
 
 ### <a href="mailto:btapia@gradcenter.cuny.edu">Beicer Tapia</a> 
-> <img src="/assets/img/BTapia.jpeg" alt="drawing" width="150" class="left"/>
+> <img src="/assets/img/BTapia.jpg" alt="drawing" width="150" class="left"/>
 > 
 > **Research Interest:** (1) Principles of the molecular recognition between the syntehtic carbohydrate receptors and complex glycans and recognition of glycans as viable targets for synthetic molecules for sensors, drugs development and viral binding inhibition. (2) The sequence-structure relation in carbohydrates for discovery of novel carbohydrate-based materials.  
 >
@@ -86,13 +86,20 @@ layout: default
 > 
 > **Methods:** 
 
+## Visiting Scholars:
+
+### Shonel Rahim
+> <img src="/assets/img/SRahim.jpg" alt="drawing" width="150" class="left">
+>
+> **Research Interest:** Shonel works on the development of CarP, a carbohydrate analysis python package. It provides methods for generating quantitative metrics to compare carbohydrate conformers. In addition to this there are graphical functionalities to display molecular data.
+> 
+> **Methods:** Python
+
 # Group alumni:
 ---
 <h3> Abner Kahan (UG -- Currently at) </h3>
 
 <h3> Genrietta Yagdayeva (UG -- Currently at) </h3>
-
-<h3> Shonel Rahim (UG -- Currently at ) </h3>
 
 <h3> Wonsuk Lee (UG  -- Currently applying for Medical Schools)) </h3>
 
