@@ -5,11 +5,6 @@ layout: default
 # Welcome to the Marianski Group Website
 
 ---
-<p>
-
-<figure class="w-100 tc">
- <img src="/assets/img/Fig1_overview.png" alt="drawing"/>
-</figure>
 
 Computational chemistry gives us an unparalleled ability to visualize, with atomic – or even electronic – resolution, the mechanistic underpinning of physical, chemical, and biochemical processes, and in effect, provide a crucial insight into most challenging questions in the development of novel therapeutic strategies, and chemical synthesis.
 
@@ -17,5 +12,13 @@ The research interest at Marianski lab at Hunter College CUNY ranges from a sing
 
 Our research are focused around five main areas, three of which are connected by the theme of carbohydrates: 1) Mechanochemistry: Altering chemical reactions with a mechanical force; 2) Glycosylation: Improving stereocontrol of a glycosylation reaction; 3) Glycoanalysis: Understanding structure-function relationship in glycans; 4) Site-specific biolabeling: Designing new generation of site-specific labels of IgGs; and 5) Antivirals: Exploiting glycans as a target for novel antivirals. 
 
+<figure class="w-100 tc">
+ <img src="/assets/img/Fig1_overview.png" alt="drawing"/>
+</figure>
 
-</p>
+
+
+
+
+
+
