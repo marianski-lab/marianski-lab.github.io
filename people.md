@@ -6,7 +6,7 @@ layout: default
 ---
 ## Prof.  Mateusz Marianski
 
-<img src="/assets/img/MMarianski2.png" alt="drawing" width="300" class="left" align="left"/>
+![MM](/assets/img/MMarianski2.png){: .align-left .w-30}
  
  **Office Location**: HN-1321B
  
