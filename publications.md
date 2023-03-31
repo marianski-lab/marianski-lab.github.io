@@ -2,10 +2,11 @@
 layout: default
 ---
 
-## List of publications:
+# List of publications:
 
-### ORCID:[0000-0002-6566-9931](http://orcid.org/0000-0002-6566-9931)
-### [Google Scholar](https://scholar.google.com/citations?user=UXI-3uUAAAAJ)
+---
+## ORCID: [0000-0002-6566-9931](http://orcid.org/0000-0002-6566-9931)
+## [Google Scholar](https://scholar.google.com/citations?user=UXI-3uUAAAAJ)
 
 #### 26. ''Binding of Synthetic Carbohydrate Receptors to Enveloped Virus Glycans: Insights From Molecular Dynamics Simulations''
 > B. Tapia, G. Yagudayeva, M. F. Bravo, K. Thakur, A. B. Braunschweig, M. Marianski,
