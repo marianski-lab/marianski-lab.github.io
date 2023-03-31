@@ -7,7 +7,9 @@ layout: default
 ---
 <p>
 
-<img src="/assets/img/Fig1_overview.png" alt="drawing" width="600" class="center"/>
+<figure class="w-100 tc">
+ <img src="/assets/img/Fig1_overview.png" alt="drawing" width="600" class="center"/>
+</figure>
 
 Computational chemistry gives us an unparalleled ability to visualize, with atomic – or even electronic – resolution, the mechanistic underpinning of physical, chemical, and biochemical processes, and in effect, provide a crucial insight into most challenging questions in the development of novel therapeutic strategies, and chemical synthesis.
 

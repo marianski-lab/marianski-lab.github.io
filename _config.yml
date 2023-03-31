@@ -3,8 +3,8 @@ logo: /assets/img/cables_sm.jpg
 description: Marianski Group at Hunter College
 people_url: people.html
 public_url: publications.html
-course_url: courses.html
 resear_url: research.html
+codede_url: code.html
 contac_url: contact.html
 show_downloads: False 
 google_analytics: 
