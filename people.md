@@ -6,10 +6,8 @@ layout: default
 ---
 ## Dr. Mateusz Marianski
 
-<img src="/assets/img/MMarianski.jpg" alt="drawing" width="500" class="left"/>
-
- **Research Statement**: The 
-
+<img src="/assets/img/MMarianski2.png" alt="drawing" width="500" class="left"/>
+ 
  **Office Location**: HN-1321B
  
  **Phone**: 212-772-5343
@@ -20,7 +18,7 @@ layout: default
 
  - 2013-2018: Postdoc Fritz-Haber-Institut der Max-Planck-Gesellschaft, Berlin, Germany
    - Groups of Carsten Baldauf and Gert von Helden
- - 2009-2013: Ph.D. Graduate Center and Hunter College, CUNY                                                                                                             
+ - 2009-2013: Ph.D. Graduate Center and Hunter College, CUNY
    - PhD Supervisor: Joseph J. Dannenberg 
  - 2005-2009: M.Sc. University of Wroclaw, Poland
    - MSc Supervisor: Robert Wieczorek
@@ -97,13 +95,13 @@ layout: default
 
 # Group alumni:
 ---
-<h3> Abner Kahan (UG -- Currently at) </h3>
+<h3> Abner Kahan (UG -- Currently at applying for mD) </h3>
 
-<h3> Genrietta Yagdayeva (UG -- Currently a graduate student at Saint John's University) </h3>
+<h3> Genrietta Yagdayeva (UG -- Currently a graduate student at St John's University) </h3>
 
-<h3> Wonsuk Lee (UG  -- Currently applying for Medical Schools)) </h3>
+<h3> Wonsuk Lee (UG  -- Currently applying for Medical Schools) </h3>
 
-<h3> Cesar Pabon (UG) </h3>
+<h3> Cesar Pabon (UG -- Currently at Mercer)  </h3>
 
 <h3> Benjamin Slater (HS -- Currently at University of Chicago) </h3>
 

@@ -8,6 +8,13 @@ layout: default
 ## ORCID: [0000-0002-6566-9931](http://orcid.org/0000-0002-6566-9931)
 ## [Google Scholar](https://scholar.google.com/citations?user=UXI-3uUAAAAJ)
 
+#### 27. ''Decoding the Fucose Migration Product during Mass-Spectrometric Analysis of Blood Group Epitopes''
+> M. Lettow, K. Greis, E. Mucha, T. R. Lambeth, M. Yaman, V. Kontodimas, C. Manz, W. Hoffmann, G. Meijer, R. R. Julian, G. von Helden, M. Marianski, K. Pagel
+>_Angewandte Chemie International Edition_ , **2023**, _Just Accepted_
+>doi: [10.1002/ange.202302883](https://onlinelibrary.wiley.com/doi/10.1002/ange.202302883)
+
+<img src="/assets/img/fucose_2023.png" alt="drawing" width="400" class="center"/>
+
 #### 26. ''Binding of Synthetic Carbohydrate Receptors to Enveloped Virus Glycans: Insights From Molecular Dynamics Simulations''
 > B. Tapia, G. Yagudayeva, M. F. Bravo, K. Thakur, A. B. Braunschweig, M. Marianski,
 >_Carbohydrate Research_ , **2022**, 518, pp. 108574
@@ -20,7 +27,7 @@ layout: default
 >_European Journal of Organic Chemistry_ , **2021**, 37, pp. 5262-5274
 >doi: [10.1002/ejoc.202100763](https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/ejoc.202100763)
 
-<img src="/assets/img/thakur_2021_eurjorgchem.jpg" alt="drawing" width="400" class="center"/>
+<img src="/assets/img/thakur_2021_eurjorgchem2.jpg" alt="drawing" width="400" class="center"/>
 
 #### 24. ''Binding of Divalent Transition Metal Ions to Immobilized Phosphinic Acid Ligands. Part I. Characterization by Fourier Transform Infrared Spectroscopy''
 > S. D. Alexandratos, X. Zhu, M. Marianski,
