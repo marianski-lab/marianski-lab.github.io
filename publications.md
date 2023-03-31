@@ -26,7 +26,7 @@ layout: default
 >_European Journal of Organic Chemistry_ , **2021**, 37, pp. 5262-5274
 >doi: [10.1002/ejoc.202100763](https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/ejoc.202100763)
 
-<img src="/assets/img/thakur_2021_eurjorgchem2.jpg" alt="drawing" width="400" class="center"/>
+<img src="/assets/img/thakur_2021_eurjorgchem2.jpg.png" alt="drawing" width="400" class="center"/>
 
 #### 24. ''Binding of Divalent Transition Metal Ions to Immobilized Phosphinic Acid Ligands. Part I. Characterization by Fourier Transform Infrared Spectroscopy''
 > S. D. Alexandratos, X. Zhu, M. Marianski,
