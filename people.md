@@ -30,7 +30,7 @@ layout: default
 
 ## Graduate students:
 
-<a href="mailto:btapia@gradcenter.cuny.edu">Beicer Tapia</a> 
+### <a href="mailto:btapia@gradcenter.cuny.edu">Beicer Tapia</a> 
 > <img src="/assets/img/BTapia.jpg" alt="drawing" width="200" class="left" align="left"/>
 >
 > **Research Interest:** (1) Principles of the molecular recognition between the syntehtic carbohydrate receptors and complex glycans and recognition of glycans as viable targets for synthetic molecules for sensors, drugs development and viral binding inhibition. (2) The sequence-structure relation in carbohydrates for discovery of novel carbohydrate-based materials.  
@@ -39,13 +39,14 @@ layout: default
 
 ---
 
-<a href="mailto:ddave@gradcenter.cuny.edu">Dhwanit Dave</a> (Member of Rein Uljin group at ASRC)
+### <a href="mailto:ddave@gradcenter.cuny.edu">Dhwanit Dave</a> (Member of Rein Uljin group at ASRC)
 > <img src="/assets/img/DDave.jpg" alt="drawing" width="200" class="left" align="left"/>
 >
 > **Research Interest:** Understanding how supramolecular interactions of biological building blocks such as amino acids, peptides and carbohydrates. influences properties of materials with applications ranging from catalysis to food-additives. In order to achieve his goals, he uses combination of experimental (at ASRC) as well as computational methods.
 >
 > **Methods:** Molecular dynamics simulations (gromacs), quantum calculations (Gaussian16) and data analysis (Python). 
 
+---
 
 ### <a href="mailto:myaman@gradcenter.cuny.edu">Murat Yaman</a>
 > <img src="/assets/img/MYaman.jpg" alt="drawing" width="200" class="left" align="left"/>
@@ -100,17 +101,14 @@ layout: default
 
 
 # Group alumni:
+
 ---
-<h3> Abner Kahan (UG -- Currently at applying for mD) </h3>
 
-<h3> Genrietta Yagdayeva (UG -- Currently a graduate student at St John's University) </h3>
+- Abner Kahan (Graduate with Honors, currently at applying for MD programs)
+- Genrietta Yagdayeva (Graduated with Honors, currently a graduate student at St John's University)
+- Wonsuk Lee (Currently applying for Medical Schools) 
+- Cesar Pabon (Currently Associate at Mercer) 
+- Benjamin Slater (HS -- Currently at University of Chicago) 
 
-<h3> Wonsuk Lee (UG  -- Currently applying for Medical Schools) </h3>
-
-<h3> Cesar Pabon (UG -- Currently at Mercer)  </h3>
-
-<h3> Benjamin Slater (HS -- Currently at University of Chicago) </h3>
-
-<br>
 
 [back](./)

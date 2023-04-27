@@ -32,20 +32,19 @@ The glycosylation reaction couples a glycosyl donor to an acceptor and proceeds 
 
 Importantly, we demonstrated that the formation of this type of an intermediate correlates with the stereoselectivity of the glycosylation reaction, which proofs that the fine-tuning of the stereoelectronic properties of the protecting groups can significantly influence the outcome of the reaction. 
 
-<figure class="w-80 tc">
+<figure class="w-100 tc">
 <img src="/assets/img/glycR_nomagic.png" alt="drawing" class="center"/>
 </figure>
 
-Key papers:
-#### [2] ''Direct Evidence for Remote Participation in Galactose Building Blocks during Glycosylation Revealed by Cryogenic Vibrational Spectroscopy''
+####  Key papers:
 
->M. Marianski, E. Mucha, K. Greis, D. S. Moon, A. Pardo, C. Kirschbaum, D. A. Thomas, G. Meijer, G. von Helden, K. Gillmore, P. Seeberger, K. Pagel,
->_Angewandte Chemie International Edition_, **2020**, 59, pp.~6166-6171
+> [2] **''Direct Evidence for Remote Participation in Galactose Building Blocks during Glycosylation Revealed by Cryogenic Vibrational Spectroscopy''** 
+> M. Marianski, E. Mucha, K. Greis, D. S. Moon, A. Pardo, C. Kirschbaum, D. A. Thomas, G. Meijer, G. von Helden, K. Gillmore, P. Seeberger, K. Pagel,
+> _Angewandte Chemie International Edition_, **2020**, 59, pp.~6166-6171
 >doi: [10.1002/anie.201916245](https://onlinelibrary.wiley.com/doi/10.1002/anie.201916245)
-
-#### [1]''Unravelling the structure of glycosyl cations via cold-ion infrared spectroscopy''
-
->E. Mucha\*, M.  Marianski\*, F. Xu, D. A. Thomas, G. Meijer, G. von Helden, P. H. Seeberger, K. Pagel,
+>
+> [1] **''Unravelling the structure of glycosyl cations via cold-ion infrared spectroscopy''**
+> E. Mucha\*, M.  Marianski\*, F. Xu, D. A. Thomas, G. Meijer, G. von Helden, P. H. Seeberger, K. Pagel,
 >_Nature Communications_, **2018**, 9, p.~4174
 > doi: [10.1038/s41467-018-06764-3](https://www.nature.com/articles/s41467-018-06764-3)
 
@@ -62,41 +61,37 @@ group epitopes.[6] The computational work has also catalyzed the development of 
 <img src="/assets/img/IR-structure.png" alt="drawing" width="800" class="center"/>
 </figure>
 
-Key papers:
-#### [6] ''Decoding the Fucose Migration Product during Mass-Spectrometric Analysis of Blood Group Epitopes''
+#### Key papers:
+
+> [6] **''Decoding the Fucose Migration Product during Mass-Spectrometric Analysis of Blood Group Epitopes''**
 > M. Lettow, K. Greis, E. Mucha, T. R. Lambeth, M. Yaman, V. Kontodimas, C. Manz, W. Hoffmann, G. Meijer, R. R. Julian, G. von Helden, M. Marianski, K. Pagel
 >_Angewandte Chemie International Edition_ , **2023**, _Just Accepted_
 >doi: [10.1002/ange.202302883](https://onlinelibrary.wiley.com/doi/10.1002/ange.202302883)
-
-#### [5] ''In-depth structural analysis of glycans in the gas phase''
-
+>
+> [5] **''In-depth structural analysis of glycans in the gas phase''**
 >E. Mucha\*, A. Stuckmann\*, M. Marianski\*, W. Struwe, G. Meijer, K. Pagel,
 >_Chemical Science_, **2019**, 10, pp.~1272-1284
 > doi: [10.1039/C8SC05426F](https://pubs.rsc.org/--/content/articlehtml/2019/sc/c8sc05426f)
-
-
-#### . [4] ''Unravelling the Structural Complexity of Glycolipids with Cryogenic Infrared Spectroscopy''
+>
+> [4] **''Unravelling the Structural Complexity of Glycolipids with Cryogenic Infrared Spectroscopy''**
 > C. Kirschbaum, K. Greis, E. Mucha, L. Kain, S. Deng, A. Zappe, S. Gewinner, W. Schöllkopf, G. von Helden, G. Meijer, P. B. Savage, M. Marianski, L. Teyton, K. Pagel,
 >_Nature Communications_ , **2021**, 12, p. 1201
 >doi: [10.1038/s41467-021-21480-1](https://www.nature.com/articles/s41467-021-21480-1)
-
-#### [3] ''Fucose Migration in Intact Protonated Glycan Ions: A Universal Phenomenon in Mass Spectrometry''
-
+>
+> [3] **''Fucose Migration in Intact Protonated Glycan Ions: A Universal Phenomenon in Mass Spectrometry''**
 > E. Mucha, M. Lettow, M. Marianski, D. A. Thomas, W. B. Struwe, D. J. Harvey, K. Pagel,
 > _Angewandte Chemie International Edition_, **2018**, 57, pp.~7440–7443
 > doi: [10.1002/anie.2018.01418](https://onlinelibrary.wiley.com/doi/full/10.1002/anie.201801418)
-#### [2] ''Glycan fingerprinting using cold-ion infrared spectroscopy'' 
-
+>
+> [2] **''Glycan fingerprinting using cold-ion infrared spectroscopy''**
 >E. Mucha, A. I. Gonz\'{a}lez Fl\'{o}res, M. Marianski, D. A. Thomas, W. Hoffmann, W. B. Struwe, H. S. Hahm, S. Gewinner, W. Sch\"{o}llkopf, P. H. Seeberger, G. von Helden, K. Pagel,
 > _Angewandte Chemie International Edition_, **2017**, 56, pp.~11248-11251,
 > doi: [10.1002/anie.201702896](https://onlinelibrary.wiley.com/doi/full/10.1002/anie.201702896)
-
-#### [1] ''Assessing the accuracy of across-the scale methods for predicting carbohydrate conformational energies on the example of glucose and $\alpha$-maltose''
-
+>
+> [1] **''Assessing the accuracy of across-the scale methods for predicting carbohydrate conformational energies on the example of glucose and $\alpha$-maltose''**
 > M. Marianski, A. Supady, T. Ingram, M. Schneider and C. Baldauf,
 > _Journal of Chemical Theory and Computations_, **2016**, 12, pp.~6157-6168
 > doi: [10.1021/acs.jctc.6b00876](https://pubs.acs.org/doi/full/10.1021/acs.jctc.6b00876)
-
 
 ### 4. Antivirals: Can viral glycans be targeted to detect and stop viral diseases?
 
@@ -105,34 +100,31 @@ The recognition events between glycans and receptors have a central role in the 
 In collaboration with prof. Adam Braunschweig (ASRC CUNY), we have synthesized a large library of over 80 synthetic carbohydrate receptors (SCRs), and characterized their binding towards biologically-relevant carbohydrates. We have established design rules to anticipate the SCR selectivity and to optimize its binding affinity.[1−4] Importantly, these  SCRs show strong antiviral activity. We hypothesize that  the SCRs interact with N-glycans on the surface of EnV,  which leads to the inhibition of the docking of a virus to  a host cell. We have demonstrated, using MD  simulations, that SCRs are selective towards specific N-glycans, abundance of which correlates with the measured antiviral activity of SCRs.[5]
 
 <figure class="w-80 tc">
-<img src="/assets/img/flexibleSCR-1.png" alt="drawing" width="800" class="center"/>
+<img src="/assets/img/flexibleSCR-1.png" alt="drawing" class="center"/>
 </figure>
 
-Key papers:
-#### [5] ''Binding of Synthetic Carbohydrate Receptors to Enveloped Virus Glycans: Insights From Molecular Dynamics Simulations''
+#### Key papers:
+> [5] **''Binding of Synthetic Carbohydrate Receptors to Enveloped Virus Glycans: Insights From Molecular Dynamics Simulations''**
 > B. Tapia, G. Yagudayeva, M. F. Bravo, K. Thakur, A. B. Braunschweig, M. Marianski,
 >_Carbohydrate Research_ , **2022**, 518, pp. 108574
 >doi: [10.1016/j.carres.2022.108574](https://www.sciencedirect.com/science/article/pii/S0008621522000751)
-
-#### [4] ''Regiochemical Effects on the Carbohydrate Binding and Selectivity of Flexible Synthetic Carbohydrate Receptors with Indole and Quinoline Heterocyclic Groups''
+>
+> [4] **''Regiochemical Effects on the Carbohydrate Binding and Selectivity of Flexible Synthetic Carbohydrate Receptors with Indole and Quinoline Heterocyclic Groups''**
 > K. Thakur, M. A. Shlain, M. Marianski, A. B. Braunschweig,
 >_European Journal of Organic Chemistry_ , **2021**, 37, pp. 5262-5274
 >doi: [10.1002/ejoc.202100763](https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/ejoc.202100763)
-
-#### [3] ''Flexible Synthetic Carbohydrate Receptors as Inhibitors of Viral Attachment''
-
+>
+> [3] **''Flexible Synthetic Carbohydrate Receptors as Inhibitors of Viral Attachment''**
 > F. Bravo, M. Lema, M. Marianski, A.  B. Braunschweig,
 >_Biochemistry_ , **2021**, 60, pp. 999-1018
 >doi: [10.1021/acs.biochem.0c00732](https://pubs.acs.org/doi/abs/10.1021/acs.biochem.0c00732)
-
-#### [2] ''Synthesis and Binding of Mannose-Specific Synthetic Carbohydrate Receptors''
-
+>
+> [2] **''Synthesis and Binding of Mannose-Specific Synthetic Carbohydrate Receptors''**
 > F. Bravo, K. Palanichamy,  M. A. Shlain, F. Schiro, Y. Naeem, M. Marianski, A.  B. Braunschweig,
 >_Chemistry - European Journal_ ,  **2020**, 26, pp. 11782-11795
 >doi: [10.1002/chem.202000481](https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/chem.202000481)
-
-#### [1] ''Binding Studies on a Library of Induced-Fit Synthetic Carbohydrate Receptors with Mannoside Selectivity''
-
+>
+> [1] **''Binding Studies on a Library of Induced-Fit Synthetic Carbohydrate Receptors with Mannoside Selectivity''**
 > K. Palanichamy,  F. Bravo, M. A. Shlain, F. Schiro, Y. Naeem, M. Marianski, A. B. Braunschweig,
 >_Chemistry European Journal_, **2018**,  24, pp.~13971–13982
 > doi: [10.1002/chem.201803317](https://onlinelibrary.wiley.com/doi/full/10.1002/chem.201803317)
