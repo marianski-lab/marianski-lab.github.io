@@ -7,11 +7,9 @@ layout: default
 ## Prof.  Mateusz Marianski
 
 ![MM](/assets/img/MMarianski2.png){: .align-left style="width: 30%;"}
- 
- **Office Location**: HN-1321B
- 
+ **Address**: Chemistry Department of Hunter College CUNY, 695 Park Ave, New York, NY 10065
+ **Office Location**: HN-1321B (North Builiding, 13th floor)
  **Phone**: 212-772-5343
- 
  **E-mail**: <a href="mailto:mmarians@hunter.cuny.edu">mmarians@hunter.cuny.edu</a>
 
 ### Education:
@@ -29,31 +27,32 @@ layout: default
  - [Google Scholar](https://scholar.google.com/citations?user=UXI-3uUAAAAJ)
 
 # Current group members:
----
+
 ## Graduate students:
 
+<a href="mailto:btapia@gradcenter.cuny.edu">Beicer Tapia</a> 
 > <img src="/assets/img/BTapia.jpg" alt="drawing" width="200" class="left" align="left"/>
-> <a href="mailto:btapia@gradcenter.cuny.edu">Beicer Tapia</a> 
 >
 > **Research Interest:** (1) Principles of the molecular recognition between the syntehtic carbohydrate receptors and complex glycans and recognition of glycans as viable targets for synthetic molecules for sensors, drugs development and viral binding inhibition. (2) The sequence-structure relation in carbohydrates for discovery of novel carbohydrate-based materials.  
 >
 > **Methods:** Molecular dynamics simulations (gromacs) and data analysis (Python).
 
+---
 
+<a href="mailto:ddave@gradcenter.cuny.edu">Dhwanit Dave</a> (Member of Rein Uljin group at ASRC)
 > <img src="/assets/img/DDave.jpg" alt="drawing" width="200" class="left" align="left"/>
-> <a href="mailto:ddave@gradcenter.cuny.edu">Dhwanit Dave</a> (Member of Rein Uljin group at ASRC)
 >
 > **Research Interest:** Understanding how supramolecular interactions of biological building blocks such as amino acids, peptides and carbohydrates. influences properties of materials with applications ranging from catalysis to food-additives. In order to achieve his goals, he uses combination of experimental (at ASRC) as well as computational methods.
-> 
+>
 > **Methods:** Molecular dynamics simulations (gromacs), quantum calculations (Gaussian16) and data analysis (Python). 
 
 
 ### <a href="mailto:myaman@gradcenter.cuny.edu">Murat Yaman</a>
 > <img src="/assets/img/MYaman.jpg" alt="drawing" width="200" class="left" align="left"/>
 >
-> **Research Interest:** Murat conducts structural analysis of small molecular glycans via infrared spectroscopy and ab initio molecular dynamics. 
+> **Research Interest:**  Structural analysis of small glycans in a gas phase. Understanding of the role of potential-energy surface in defining function of glycans in gas-phase, solution, and in bound complexes. Development of sampling techniques and data analysis pipeline in CarP.  
 >
-> **Methods:** Quantum chemical calculations (Gaussian16) and data analysis (Python).
+> **Methods:** Quantum chemical calculations (Gaussian16, FHIaims, CP2K), semiempiriral (xtb),  and data analysis (Python).
 
 
 ### <a href="mailto:rkwok@gradcenter.cuny.edu">Ryan Kwok</a>
