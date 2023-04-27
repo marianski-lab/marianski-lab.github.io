@@ -17,8 +17,8 @@ Background: The organic solvents employed in the great majority of organic react
  <img src="/assets/img/pes.png" alt="drawing"/>
 </figure>
 
-Key papers:
->
+#### Key papers:
+
 > [1] **''Acceleration of Diels-Alder Reactions by Mechanical Distortion''**
 > Y. S. Zholdassov, L. Yuan, S. R. Garcia, R. W. Kwok, A. Boscoboinik, D. J. Valles, M. Marianski, A. Martini, R. W. Carpick, A. B. Braunschweig 
 > _Science_, _Accepted -- pending publication_

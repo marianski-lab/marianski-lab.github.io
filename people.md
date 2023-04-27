@@ -34,8 +34,8 @@ layout: default
 
 ## Graduate students:
 
-### <a href="mailto:btapia@gradcenter.cuny.edu">Beicer Tapia</a> 
 > <img src="/assets/img/BTapia.jpg" alt="drawing" width="200" class="left" align="left"/>
+> ### <a href="mailto:btapia@gradcenter.cuny.edu">Beicer Tapia</a> 
 >
 > **Research Interest:** (1) Principles of the molecular recognition between the syntehtic carbohydrate receptors and complex glycans and recognition of glycans as viable targets for synthetic molecules for sensors, drugs development and viral binding inhibition. (2) The sequence-structure relation in carbohydrates for discovery of novel carbohydrate-based materials.  
 >
