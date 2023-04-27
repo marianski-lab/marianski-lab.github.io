@@ -106,8 +106,6 @@ layout: default
 
 # Group alumni:
 
----
-
 - Abner Kahan (Graduate with Honors, currently at applying for MD programs)
 - Genrietta Yagdayeva (Graduated with Honors, currently a graduate student at St John's University)
 - Wonsuk Lee (Currently applying for Medical Schools) 

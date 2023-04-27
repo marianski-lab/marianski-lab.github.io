@@ -6,8 +6,7 @@ layout: default
 
 ---
 
-The research provides excellent opportunity to gain an understanding of concepts ubiquitous in all branches of chemistry like basics of bio- and glycochemistry, as well as more advanced concepts of quantum mechanics, molecular energy landscapes and reaction mechanisms. Moreover, research in the theoretical chemistry lab will teach basics of scripting/programing (linux, bash, python, perl, C++…) and data-analysis skills.
-{: .text-justify}
+The research interest at Marianski lab at Hunter College CUNY ranges from a single bond formation under applied mechanical force to noncovalent interactions between the most complex biomolecules in biology. The tools we apply to investigate these problems are tailored to the specific demands of these problems. For instance, investigating a bond formation process necessitates methods that explicitly consider the molecular electronic structure, such as Density Functional Theory (DFT). On the other end of the spectrum, understanding recognition between large biomolecules, such as binding of synthetic carbohydrate receptors to a glycan portion of a protein, merits methods of classical molecular simulations. Finally, some other problems, such as glycoside reactions in an enzymatic center under mechanical stress, will require both quantum and classical approaches merged in a QM/MM scheme.
 
 ### 1. Mechanochemistry: Altering organic reactions with mechanical forces
 
