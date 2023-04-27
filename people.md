@@ -7,9 +7,13 @@ layout: default
 ## Prof.  Mateusz Marianski
 
 ![MM](/assets/img/MMarianski2.png){: .align-left style="width: 30%;"}
+
  **Address**: Chemistry Department of Hunter College CUNY, 695 Park Ave, New York, NY 10065
+
  **Office Location**: HN-1321B (North Builiding, 13th floor)
+
  **Phone**: 212-772-5343
+
  **E-mail**: <a href="mailto:mmarians@hunter.cuny.edu">mmarians@hunter.cuny.edu</a>
 
 ### Education:

@@ -13,14 +13,14 @@ The research provides excellent opportunity to gain an understanding of concepts
 
 Background: The organic solvents employed in the great majority of organic reactions carried out in industry account for >60% of all chemical manufacturing waste. Because of the energy demand of so-called solvothermal syntheses, where solvent and heat drive reactions, the chemical industry consumes 37% of the total energy used in manufacturing. Replacing solvothermal with mechanically-activated organic chemistry – where force, rather than heat and solvent, drives the making and breaking of covalent bonds – can solve the waste and energy challenges of organic synthesis. Mechanochemically-activated conditions can also yield stereoisomers and regioisomers that are not favored under solvothermal conditions. Despite its many potential advantages, significant gaps in the understanding of reaction kinetics under mechanochemical activation limits adoption of mechanochemistry in chemical synthesis and manufacturing. 
 
-<figure class="w-80 tc">
- <img src="/assets/img/pes.png" alt="drawing" class="center"/>
+<figure class="third">
+ <img src="/assets/img/pes.png" alt="drawing"/>
 </figure>
 
 Key papers:
-#### ''Acceleration of Diels-Alder Reactions by Mechanical Distortion''
-> Y. S. Zholdassov, L. Yuan, S. R. Garcia, R. W. Kwok, A.
-Boscoboinik, D. J. Valles, M. Marianski, A. Martini, R. W. Carpick, A. B. Braunschweig 
+>
+> [1] **''Acceleration of Diels-Alder Reactions by Mechanical Distortion''**
+> Y. S. Zholdassov, L. Yuan, S. R. Garcia, R. W. Kwok, A. Boscoboinik, D. J. Valles, M. Marianski, A. Martini, R. W. Carpick, A. B. Braunschweig 
 > _Science_, _Accepted -- pending publication_
 
 ### 2. Glycosylation Reaction: Reviving the reaction mechanism with molecular simulations
@@ -32,8 +32,8 @@ The glycosylation reaction couples a glycosyl donor to an acceptor and proceeds 
 
 Importantly, we demonstrated that the formation of this type of an intermediate correlates with the stereoselectivity of the glycosylation reaction, which proofs that the fine-tuning of the stereoelectronic properties of the protecting groups can significantly influence the outcome of the reaction. 
 
-<figure class="w-100 tc">
-<img src="/assets/img/glycR_nomagic.png" alt="drawing" class="center"/>
+<figure class="third">
+<img src="/assets/img/glycR_nomagic.png" alt="drawing"/>
 </figure>
 
 ####  Key papers:
@@ -57,8 +57,8 @@ lyze and utilize the information buried within the glycocalyx. One promising tec
 While working at the FHI Berlin, we have established that 1) DFT provides excellent theoretical framework to study carbohydrates in a gas phase;[1] and 2) glycans have unique IR fingerprints that can be used to decode their structure.[2] Synergy between these two techniques enabled study of the sequence-structure relationship in glycans,[3] and glycosphingolipids.[4] We proposed, that the combination of computational and experimental techniques can be used to create a reference library to facilitate fragment-based analysis of glycans.[5] In a recent contribution, we have combined several gas-phase techniques and high-throughput DFT calculations to reveal the rearrangement products of the fucose migration in blood
 group epitopes.[6] The computational work has also catalyzed the development of Carbohydrate Parser in python (CarPpy) which streamlines the DFT computations, and the subsequent analysis, of carbohydrates.[See Developed Code]
 
-<figure class="w-80 tc">
-<img src="/assets/img/IR-structure.png" alt="drawing" width="800" class="center"/>
+<figure class="third">
+<img src="/assets/img/IR-structure.png" alt="drawing"/>
 </figure>
 
 #### Key papers:
@@ -99,8 +99,8 @@ The recognition events between glycans and receptors have a central role in the 
 
 In collaboration with prof. Adam Braunschweig (ASRC CUNY), we have synthesized a large library of over 80 synthetic carbohydrate receptors (SCRs), and characterized their binding towards biologically-relevant carbohydrates. We have established design rules to anticipate the SCR selectivity and to optimize its binding affinity.[1−4] Importantly, these  SCRs show strong antiviral activity. We hypothesize that  the SCRs interact with N-glycans on the surface of EnV,  which leads to the inhibition of the docking of a virus to  a host cell. We have demonstrated, using MD  simulations, that SCRs are selective towards specific N-glycans, abundance of which correlates with the measured antiviral activity of SCRs.[5]
 
-<figure class="w-80 tc">
-<img src="/assets/img/flexibleSCR-1.png" alt="drawing" class="center"/>
+<figure class="third">
+<img src="/assets/img/flexibleSCR-1.png" alt="drawing"/>
 </figure>
 
 #### Key papers:
