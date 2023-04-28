@@ -30,6 +30,8 @@ layout: default
 >
 > **Methods:** Molecular dynamics simulations (gromacs) and data analysis (Python).
 
+ <br>
+ <br>
 
 > <img src="/assets/img/MYaman.jpg" alt="drawing" width="200" class="left" align="left"/>
 > ## <a href="mailto:myaman@gradcenter.cuny.edu">Murat Yaman</a>
@@ -38,6 +40,9 @@ layout: default
 >
 > **Methods:** Quantum chemical calculations (Gaussian16, FHIaims, CP2K), semiempiriral (xtb),  and data analysis (Python).
 
+ <br>
+ <br>
+
 > <img src="/assets/img/RKwok.jpeg" alt="drawing" width="200" class="left" align="left"/>
 > ## <a href="mailto:rkwok@gradcenter.cuny.edu">Ryan Kwok</a>
 >
@@ -45,6 +50,8 @@ layout: default
 > 
 > **Methods:** Quantum chemical calculations (Gaussian16, FHI-aims and CP2K) and data analysis (Python).
 
+ <br>
+ <br> 
 
 > <img src="/assets/img/DDave.jpg" alt="drawing" width="200" class="left" align="left"/>
 > ## <a href="mailto:ddave@gradcenter.cuny.edu">Dhwanit Dave</a> (Rein Ulijn group at ASRC)
@@ -62,12 +69,16 @@ layout: default
 > 
 > **Methods:** Molecular dynamics simulations in gromacs and data visualization in VMD.
 
+<br>
+
 > <img src="/assets/img/VKontodimas.png" alt="drawing" width="150" class="left" align="left"/>
 > ### Vasilis Kontodimas
 >
 > **Research Interest:** Vasilis investigates the scope of the internal glycan rearrangement in blood group epitopes. He aims to characterize structural motives that promote or inhibit the fucose rearrangement in those model saccharides.
 > 
 > **Methods:** DFT calculation in Gaussian16 and Data analysis (Python)
+
+<br>
 
 > <img src="/assets/img/YWray.jpg" alt="drawing" width="150" class="left" align="left"/>
 > ### Yusef Wray
