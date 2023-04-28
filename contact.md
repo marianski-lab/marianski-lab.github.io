@@ -2,12 +2,12 @@
 layout: default
 ---
 
-# Contact Information
+# Contact Us:
 ---
 
 <img src="/assets/img/CUNYHunter.jpg" alt="drawing" width="800" class="left"/>
 
-## Mateusz Marianski, PhD
+## Prof. Mateusz Marianski
 > <a href="mailto:mmarians@hunter.cuny.edu">mmarians@hunter.cuny.edu</a>  
 > 212-772-5343  
 > HN-1321B  

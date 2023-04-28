@@ -2,7 +2,8 @@
 layout: default
 ---
 
-## Current Group Members:
+#Marianski Research Group at Hunter College CUNY
+---
 
 > <img src="/assets/img/MMarianski2.png" alt="drawing" width="250" class="left" align="left"/>
 > ## Prof.  Mateusz Marianski
@@ -21,6 +22,10 @@ layout: default
 > [ORCID](http://orcid.org/0000-0002-6566-9931) &
 > [Google Scholar](https://scholar.google.com/citations?user=UXI-3uUAAAAJ)
 
+ <br>
+
+## Current Group Members:
+
 ## Graduate students:
 
 > <img src="/assets/img/BTapia.jpg" alt="drawing" width="200" class="left" align="left"/>
@@ -31,7 +36,6 @@ layout: default
 > **Methods:** Molecular dynamics simulations (gromacs) and data analysis (Python).
 
  <br>
- <br>
 
 > <img src="/assets/img/MYaman.jpg" alt="drawing" width="200" class="left" align="left"/>
 > ## <a href="mailto:myaman@gradcenter.cuny.edu">Murat Yaman</a>
@@ -40,7 +44,6 @@ layout: default
 >
 > **Methods:** Quantum chemical calculations (Gaussian16, FHIaims, CP2K), semiempiriral (xtb),  and data analysis (Python).
 
- <br>
  <br>
 
 > <img src="/assets/img/RKwok.jpeg" alt="drawing" width="200" class="left" align="left"/>
@@ -51,7 +54,6 @@ layout: default
 > **Methods:** Quantum chemical calculations (Gaussian16, FHI-aims and CP2K) and data analysis (Python).
 
  <br>
- <br> 
 
 > <img src="/assets/img/DDave.jpg" alt="drawing" width="200" class="left" align="left"/>
 > ## <a href="mailto:ddave@gradcenter.cuny.edu">Dhwanit Dave</a> (Rein Ulijn group at ASRC)

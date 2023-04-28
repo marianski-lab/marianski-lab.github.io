@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Research focus at Marianski group:
+# Research focus at Marianski group
 
 ---
 
