@@ -2,7 +2,7 @@
 layout: default
 ---
 
-#Marianski Research Group at Hunter College CUNY
+# Marianski Research Group at Hunter College
 ---
 
 > <img src="/assets/img/MMarianski2.png" alt="drawing" width="250" class="left" align="left"/>

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Welcome to the Marianski Group at Hunter College CUNY
+# Welcome to the Marianski Group at Hunter College
 
 ---
 
