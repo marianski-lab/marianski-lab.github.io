@@ -2,15 +2,14 @@
 layout: default
 ---
 
-# Contact Information
+# Code developed at Marianski Research Group
 ---
 
-<img src="/assets/img/CUNYHunter.jpg" alt="drawing" width="800" class="left"/>
+> <img src="/assets/img/logo_CarP.png" alt="drawing" width="150" class="left" align="left"/>
+> ## [CarPpy - Carbohydrate Parser](https://github.com/marianski-lab/CarPpy)
+> 
+> This python packages interfaces the user and quantum chemistry code (G16, FHIaims) in simulations and data analysis. It is able to analyze the topology of carbohydrates, assign the ring pucker, type and orientation of glycosidic bonds, plot IR spectra, and much more. It also automates search protocols and uses Genetic Algorithm to sample conformational space. Full documentation is available here.  
 
-## Mateusz Marianski, PhD
-> <a href="mailto:mmarians@hunter.cuny.edu">mmarians@hunter.cuny.edu</a>  
-> 212-772-5343  
-> HN-1321B  
 
 ## Marianski Lab
 > CUNY Hunter College  

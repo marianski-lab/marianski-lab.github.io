@@ -29,7 +29,7 @@ layout: default
 ## Graduate students:
 
 > <img src="/assets/img/BTapia.jpg" alt="drawing" width="200" class="left" align="left"/>
-> ## <a href="mailto:btapia@gradcenter.cuny.edu">Beicer Tapia</a> 
+> ## <a href="mailto:btapia@gradcenter.cuny.edu">Beicer Tapia</a> (Biochem '24)
 >
 > **Research Interest:** (1) Principles of the molecular recognition between the syntehtic carbohydrate receptors and complex glycans and recognition of glycans as viable targets for synthetic molecules for sensors, drugs development and viral binding inhibition. (2) The sequence-structure relation in carbohydrates for discovery of novel carbohydrate-based materials.  
 >
@@ -38,7 +38,7 @@ layout: default
  <br>
 
 > <img src="/assets/img/MYaman.jpg" alt="drawing" width="200" class="left" align="left"/>
-> ## <a href="mailto:myaman@gradcenter.cuny.edu">Murat Yaman</a>
+> ## <a href="mailto:myaman@gradcenter.cuny.edu">Murat Yaman</a> (Biochem '25)
 >
 > **Research Interest:**  Structural analysis of small glycans in a gas phase. Understanding of the role of potential-energy surface in defining function of glycans in gas-phase, solution, and in bound complexes. Development of sampling techniques and data analysis pipeline in CarP.  
 >
@@ -47,7 +47,7 @@ layout: default
  <br>
 
 > <img src="/assets/img/RKwok.jpeg" alt="drawing" width="200" class="left" align="left"/>
-> ## <a href="mailto:rkwok@gradcenter.cuny.edu">Ryan Kwok</a>
+> ## <a href="mailto:rkwok@gradcenter.cuny.edu">Ryan Kwok</a> (Chem '27)
 >
 > **Research Interest:** Ryans uses methods of density-functional theory to investigate how external force and modification of the electronic properties of substrates modifies the underlying potential-energy surface of glycosylation reaction and other simple organic reactions. 
 > 
