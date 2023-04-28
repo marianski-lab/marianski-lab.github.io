@@ -69,7 +69,7 @@ layout: default
 > ### Lusila Vranga
 > **Research Interest:** Lusila investigates interactions between synthetic carbohydrate receptors (SCR) and the glycans that are present in the COVID-19 spike protein. The goal is to create a SCR that would affect the viral activity of the virus by attaching to the glycans that play a crucial role in this activity.
 > 
-> **Methods:** Molecular dynamics simulations in gromacs and data visualization in VMD.
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Methods:** Molecular dynamics simulations in gromacs and data visualization in VMD.
 
 <br>
 
