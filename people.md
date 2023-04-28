@@ -2,6 +2,8 @@
 layout: default
 ---
 
+## Current Group Members:
+
 > <img src="/assets/img/MMarianski2.png" alt="drawing" width="250" class="left" align="left"/>
 > ## Prof.  Mateusz Marianski
 >
@@ -16,11 +18,8 @@ layout: default
 > 3) 2005-2009: M.Sc. University of Wroclaw, Poland
 >
 > **Publications:**
->
-> [ORCID](http://orcid.org/0000-0002-6566-9931)
+> [ORCID](http://orcid.org/0000-0002-6566-9931) &
 > [Google Scholar](https://scholar.google.com/citations?user=UXI-3uUAAAAJ)
-
-# Current group members:
 
 ## Graduate students:
 
@@ -42,7 +41,7 @@ layout: default
 > <img src="/assets/img/RKwok.jpeg" alt="drawing" width="200" class="left" align="left"/>
 > ## <a href="mailto:rkwok@gradcenter.cuny.edu">Ryan Kwok</a>
 >
-> **Research Interest:** Ryans uses methods of density-functional theory to investigate how modification of the electronic properties of participating groups of glycosyl donor affect the stereochemical output of the glycosylation reaction.
+> **Research Interest:** Ryans uses methods of density-functional theory to investigate how external force and modification of the electronic properties of substrates modifies the underlying potential-energy surface of glycosylation reaction and other simple organic reactions. 
 > 
 > **Methods:** Quantum chemical calculations (Gaussian16, FHI-aims and CP2K) and data analysis (Python).
 
@@ -88,7 +87,7 @@ layout: default
 > **Methods:** Python
 
 
-# Group alumni:
+## Group alumni:
 
 - Abner Kahan (Graduate with Honors, currently at applying for MD programs)
 - Genrietta Yagdayeva (Graduated with Honors, currently a graduate student at St John's University)
