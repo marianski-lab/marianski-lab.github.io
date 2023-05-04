@@ -8,16 +8,15 @@ layout: default
 > <img src="/assets/img/MMarianski2.png" alt="drawing" width="250" class="left" align="left"/>
 > ## Prof.  Mateusz Marianski
 >
->  **Address**: Chemistry Department of Hunter College CUNY, 695 Park Ave, New York, NY 10065
->  **Office Location**: HN-1321B (North Builiding, 13th floor)
->  **Phone**: 212-772-5343
+>  **Address**: Chemistry Department of Hunter College CUNY, 695 Park Ave, New York, NY 10065 <br>
+>  **Office Location**: HN-1321B (North Builiding, 13th floor) <br>
+>  **Phone**: 212-772-5343 <br>
 >  **E-mail**: <a href="mailto:mmarians@hunter.cuny.edu">mmarians@hunter.cuny.edu</a>
 >
 > **Education:**
 > 1) 2013-2018: Postdoc Fritz-Haber-Institut der Max-Planck-Gesellschaft, Berlin, Germany
 > 2) 2009-2013: Ph.D. Graduate Center and Hunter College, CUNY
 > 3) 2005-2009: M.Sc. University of Wroclaw, Poland
->
 > **Publications:**
 > [ORCID](http://orcid.org/0000-0002-6566-9931) &
 > [Google Scholar](https://scholar.google.com/citations?user=UXI-3uUAAAAJ)
@@ -29,7 +28,7 @@ layout: default
 ## Graduate students:
 
 > <img src="/assets/img/BTapia.jpg" alt="drawing" width="200" class="left" align="left"/>
-> ## <a href="mailto:btapia@gradcenter.cuny.edu">Beicer Tapia</a> (Biochem '24)
+> ## <a href="mailto:btapia@gradcenter.cuny.edu">Beicer C. Tapia</a> (Biochem '24)
 >
 > **Research Interest:** (1) Principles of the molecular recognition between the syntehtic carbohydrate receptors and complex glycans and recognition of glycans as viable targets for synthetic molecules for sensors, drugs development and viral binding inhibition. (2) The sequence-structure relation in carbohydrates for discovery of novel carbohydrate-based materials.  
 >
@@ -69,7 +68,7 @@ layout: default
 > ### Lusila Vranga
 > **Research Interest:** Lusila investigates interactions between synthetic carbohydrate receptors (SCR) and the glycans that are present in the COVID-19 spike protein. The goal is to create a SCR that would affect the viral activity of the virus by attaching to the glycans that play a crucial role in this activity.
 > 
-> **Methods:** Molecular dynamics simulations in gromacs and data visualization in VMD.
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Methods:** Molecular dynamics simulations in gromacs and data visualization in VMD.
 
 <br>
 
