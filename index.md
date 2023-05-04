@@ -21,5 +21,5 @@ We are computational chemists: computational chemistry gives us an unparalleled 
  <img src="/assets/img/Fig1_overview.png" alt="drawing"/>
 </figure>
 
-Our research are focused around five main areas, three of which are connected by the theme of carbohydrates: 1) Mechanochemistry: Altering chemical reactions with a mechanical force; 2) Glycosylation: Improving stereocontrol of a glycosylation reaction; 3) Glycoanalysis: Understanding structure-function relationship in glycans; 4) Site-specific biolabeling: Designing new generation of site-specific labels of IgGs; and 5) Antivirals: Exploiting glycans as a target for novel antivirals. 
+Our research is focused around five main areas, three of which are connected by the theme of carbohydrates: 1) Mechanochemistry: Altering chemical reactions with a mechanical force; 2) Glycosylation: Improving stereocontrol of a glycosylation reaction; 3) Glycoanalysis: Understanding structure-function relationship in glycans; 4) Site-specific biolabeling: Designing new generation of site-specific labels of IgGs; and 5) Antivirals: Exploiting glycans as a target for novel antivirals. 
 

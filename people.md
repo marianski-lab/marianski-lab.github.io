@@ -73,7 +73,7 @@ layout: default
 
 <br>
 
-> <img src="/assets/img/VKontodimas.png" alt="drawing" width="150" class="left" align="left"/>
+> <img src="/assets/img/VKontodimas.jpg" alt="drawing" width="150" class="left" align="left"/>
 > ### Vasilis Kontodimas
 >
 > **Research Interest:** Vasilis investigates the scope of the internal glycan rearrangement in blood group epitopes. He aims to characterize structural motives that promote or inhibit the fucose rearrangement in those model saccharides.
