@@ -8,6 +8,11 @@ layout: default
 
 The research interest at Marianski lab at Hunter College CUNY ranges from a single bond formation under applied mechanical force to noncovalent interactions between the most complex biomolecules in biology. The tools we apply to investigate these problems are tailored to the specific demands of these problems. For instance, investigating a bond formation process necessitates methods that explicitly consider the molecular electronic structure, such as Density Functional Theory (DFT). On the other end of the spectrum, understanding recognition between large biomolecules, such as binding of synthetic carbohydrate receptors to a glycan portion of a protein, merits methods of classical molecular simulations. Finally, some other problems, such as glycoside reactions in an enzymatic center under mechanical stress, will require both quantum and classical approaches merged in a QM/MM scheme.
 
+<figure class="w-100 tc">
+ <img src="/assets/img/Fig1_overview.png" alt="drawing"/>
+</figure>
+
+
 ### 1. Mechanochemistry: Altering organic reactions with mechanical forces
 
 Background: The organic solvents employed in the great majority of organic reactions carried out in industry account for >60% of all chemical manufacturing waste. Because of the energy demand of so-called solvothermal syntheses, where solvent and heat drive reactions, the chemical industry consumes 37% of the total energy used in manufacturing. Replacing solvothermal with mechanically-activated organic chemistry – where force, rather than heat and solvent, drives the making and breaking of covalent bonds – can solve the waste and energy challenges of organic synthesis. Mechanochemically-activated conditions can also yield stereoisomers and regioisomers that are not favored under solvothermal conditions. Despite its many potential advantages, significant gaps in the understanding of reaction kinetics under mechanochemical activation limits adoption of mechanochemistry in chemical synthesis and manufacturing. 
