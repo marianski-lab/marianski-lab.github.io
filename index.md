@@ -12,7 +12,14 @@ We are computational chemists - computational chemistry gives us an unparalleled
 
 Our research is focused around five main areas, three of which are connected by the theme of carbohydrates: 1) Mechanochemistry: Altering chemical reactions with a mechanical force; 2) Glycosylation: Improving stereocontrol of a glycosylation reaction; 3) Glycoanalysis: Understanding structure-function relationship in glycans; 4) Site-specific biolabeling: Designing new generation of site-specific labels of IgGs; and 5) Antivirals: Exploiting glycans as a target for novel antivirals. 
 
+<figure class="w-100 tc">
+ <img src="/assets/img/binding.png" alt="drawing"/>
+</figure>
+
+
 ### News from the lab:
+
+> **05/10/2023**: The paper on "Decoding Decoding the Fucose Migration Product during Mass-Spectrometric analysis of Blood Group Epitopes" is available [online!](https://onlinelibrary.wiley.com/doi/10.1002/anie.202302883)
 
 > **05/02/2023**: Prof. Marianski is a receipient of The Henry Wasser 2023 CUNY Award for the Outstanding Research. 
 
