@@ -7,6 +7,12 @@ layout: default
 ---
 ### ORCID: [0000-0002-6566-9931](http://orcid.org/0000-0002-6566-9931) & [Google Scholar](https://scholar.google.com/citations?user=UXI-3uUAAAAJ)
 
+#### 28. ''Acceleration of Diels-Alder Reactions by Mechanical Distortion''
+
+> Y. S. Zholdassov, L. Yuan, S. R. Garcia, R. W. Kwok, A. Boscoboinik, D. J. Valles, M. Marianski, A. Martini, R. W. Carpick, A. B. Braunschweig
+> _Science_, **2023**, 380, pp. 1053-1058
+> doi: [10.1126/science.adf527](https://www.science.org/doi/10.1126/science.adf5273)
+
 #### 27. ''Decoding the Fucose Migration Product during Mass-Spectrometric Analysis of Blood Group Epitopes''
 > M. Lettow, K. Greis, E. Mucha, T. R. Lambeth, M. Yaman, V. Kontodimas, C. Manz, W. Hoffmann, G. Meijer, R. R. Julian, G. von Helden, M. Marianski, K. Pagel
 >_Angewandte Chemie International Edition_ , **2023**, _Just Accepted_

@@ -19,6 +19,8 @@ Our research is focused around five main areas, three of which are connected by 
 
 ### News from the lab:
 
+> **06/08/2023**: The paper on "Acceleration of Diels-Alder reaction by Mechanical Distortion" is available [online!](https://www.science.org/doi/10.1126/science.adf5273)
+
 > **05/10/2023**: The paper on "Decoding Decoding the Fucose Migration Product during Mass-Spectrometric analysis of Blood Group Epitopes" is available [online!](https://onlinelibrary.wiley.com/doi/10.1002/anie.202302883)
 
 > **05/02/2023**: Prof. Marianski is a receipient of The Henry Wasser 2023 CUNY Award for the Outstanding Research. 
