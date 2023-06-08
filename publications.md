@@ -13,9 +13,11 @@ layout: default
 > _Science_, **2023**, 380, pp. 1053-1058
 > doi: [10.1126/science.adf527](https://www.science.org/doi/10.1126/science.adf5273)
 
+<img src="/assets/img/pes.png" alt="drawing" width="400" class="center"/>
+
 #### 27. ''Decoding the Fucose Migration Product during Mass-Spectrometric Analysis of Blood Group Epitopes''
 > M. Lettow, K. Greis, E. Mucha, T. R. Lambeth, M. Yaman, V. Kontodimas, C. Manz, W. Hoffmann, G. Meijer, R. R. Julian, G. von Helden, M. Marianski, K. Pagel
->_Angewandte Chemie International Edition_ , **2023**, _Just Accepted_
+>_Angewandte Chemie International Edition_ , **2023**, e202302883
 >doi: [10.1002/ange.202302883](https://onlinelibrary.wiley.com/doi/10.1002/ange.202302883)
 
 <img src="/assets/img/fucose_2023.png" alt="drawing" width="400" class="center"/>
