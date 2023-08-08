@@ -17,6 +17,8 @@ The research interest at Marianski lab at Hunter College CUNY ranges from a sing
 
 Background: The organic solvents employed in the great majority of organic reactions carried out in industry account for >60% of all chemical manufacturing waste. Because of the energy demand of so-called solvothermal syntheses, where solvent and heat drive reactions, the chemical industry consumes 37% of the total energy used in manufacturing. Replacing solvothermal with mechanically-activated organic chemistry – where force, rather than heat and solvent, drives the making and breaking of covalent bonds – can solve the waste and energy challenges of organic synthesis. Mechanochemically-activated conditions can also yield stereoisomers and regioisomers that are not favored under solvothermal conditions. Despite its many potential advantages, significant gaps in the understanding of reaction kinetics under mechanochemical activation limits adoption of mechanochemistry in chemical synthesis and manufacturing. 
 
+This project is a part of a new NSF CCI: [Center for the Mechanical Control of Chemistry](https://www.chem.tamu.edu/cmcc/).
+
 <figure class="third">
  <img src="/assets/img/pes.png" alt="drawing"/>
 </figure>
@@ -25,7 +27,8 @@ Background: The organic solvents employed in the great majority of organic react
 
 > [1] **''Acceleration of Diels-Alder Reactions by Mechanical Distortion''**
 > Y. S. Zholdassov, L. Yuan, S. R. Garcia, R. W. Kwok, A. Boscoboinik, D. J. Valles, M. Marianski, A. Martini, R. W. Carpick, A. B. Braunschweig 
-> _Science_, _Accepted -- pending publication_
+> _Science_, **2023**, 380, p.~1053
+> doi: [10.1126/science.adf52](https://www.science.org/doi/full/10.1126/science.adf5273)
 
 ### 2. Glycosylation Reaction: Reviving the reaction mechanism with molecular simulations
 
