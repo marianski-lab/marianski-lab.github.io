@@ -19,6 +19,8 @@ Our research is focused around five main areas, three of which are connected by 
 
 ### News from the lab:
 
+> **10/26/2023**: Opportunities for Summer Research Experience for Undergraduate are available - inquire the PI. 
+
 > **08/08/2023**: National Science Foundation has creation of the new CCI: [Center for the Mechanical Control of Chemistry (CMCC)](https://www.chem.tamu.edu/cmcc/). Full announcement [here.](https://new.nsf.gov/news/crushing-chemical-innovations-heart-newly-expanded?utm_medium=email&utm_source=govdelivery)
 
 > **06/08/2023**: The paper on "Acceleration of Diels-Alder reaction by Mechanical Distortion" is available [online!](https://www.science.org/doi/10.1126/science.adf5273)

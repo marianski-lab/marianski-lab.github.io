@@ -10,6 +10,11 @@ layout: default
 > 
 > This python packages interfaces the user and quantum chemistry code (G16, FHIaims) in simulations and data analysis. It is able to analyze the topology of carbohydrates, assign the ring pucker, type and orientation of glycosidic bonds, plot IR spectra, and much more. It also automates search protocols and uses Genetic Algorithm to sample conformational space. Full documentation is available here.  
 
+> <img src="/assets/img/logo_nanobionyc.png" alt="drawing" width="150" class="left" align="left"/>
+> ## [NRT Python workshop](https://github.com/marianski-lab/NRTPythonWorkshop)
+> 
+> Notebooks from the first workshop on python organized as a part of NRT-URoL: Nanoscience Connected to Life.
+
 
 ## Marianski Lab
 > CUNY Hunter College  

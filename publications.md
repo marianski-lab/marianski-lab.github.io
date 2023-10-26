@@ -94,7 +94,7 @@ layout: default
 
 >E. Mucha\*, A. Stuckmann\*, M. Marianski\*, W. Struwe, G. Meijer, K. Pagel,
 >_Chemical Science_, **2019**, 10, pp.~1272-1284
-> doi: [10.1039/C8SC05426F](https://pubs.rsc.org/--/content/articlehtml/2019/sc/c8sc05426f)
+> doi: [10.1039/C8SC05426F](https://pubs.rsc.org/en/content/articlelanding/2019/sc/c8sc05426f)
 
 <img src="/assets/img/glycan.gif" alt="drawing" width="400" class="center"/>
 
