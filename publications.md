@@ -13,7 +13,7 @@ layout: default
 > _The Journal of Organic Chemistry_, **2023**, ASAP
 > doi: [10.1021/acs.joc.3c01156](https://doi.org/10.1021/acs.joc.3c01156)
 
-<img src="/assets/img/JOC_Chavez.png" alt="drawing" width="400" class="center"/>
+<img src="/assets/img/JOC_Chavez.jpeg" alt="drawing" width="400" class="center"/>
 
 #### 28. ''Acceleration of Diels-Alder Reactions by Mechanical Distortion''
 
