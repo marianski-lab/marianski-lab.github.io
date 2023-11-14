@@ -7,6 +7,14 @@ layout: default
 ---
 ### ORCID: [0000-0002-6566-9931](http://orcid.org/0000-0002-6566-9931) & [Google Scholar](https://scholar.google.com/citations?user=UXI-3uUAAAAJ)
 
+#### 29. ''Conformational Properties of Aryl S-Glucosides in Solution''
+
+> B. Deore, R. W. Kwok, M. Toregeldiyeva, J. T. Vázquez, M. Marianski, C. A. Sanhueza
+> _The Journal of Organic Chemistry_, **2023**, ASAP
+> doi: [10.1021/acs.joc.3c01156](https://doi.org/10.1021/acs.joc.3c01156)
+
+<img src="/assets/img/JOC_Chavez.png" alt="drawing" width="400" class="center"/>
+
 #### 28. ''Acceleration of Diels-Alder Reactions by Mechanical Distortion''
 
 > Y. S. Zholdassov, L. Yuan, S. R. Garcia, R. W. Kwok, A. Boscoboinik, D. J. Valles, M. Marianski, A. Martini, R. W. Carpick, A. B. Braunschweig

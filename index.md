@@ -19,6 +19,8 @@ Our research is focused around five main areas, three of which are connected by 
 
 ### News from the lab:
 
+> **11/13/2023**: New publication on conformational stability of S-glucosides has appeared in [The Journal of Organic Chemistry](https://pubs.acs.org/doi/10.1021/acs.joc.3c01156)! Congratulations to Ryan and Malika for contributing to this work. 
+
 > **10/26/2023**: Opportunities for Summer Research Experience for Undergraduate are available - inquire the PI. 
 
 > **08/08/2023**: National Science Foundation has creation of the new CCI: [Center for the Mechanical Control of Chemistry (CMCC)](https://www.chem.tamu.edu/cmcc/). Full announcement [here.](https://new.nsf.gov/news/crushing-chemical-innovations-heart-newly-expanded?utm_medium=email&utm_source=govdelivery)
