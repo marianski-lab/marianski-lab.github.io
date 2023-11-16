@@ -20,7 +20,7 @@ Background: The organic solvents employed in the great majority of organic react
 This project is a part of a new NSF CCI: [Center for the Mechanical Control of Chemistry](https://www.chem.tamu.edu/cmcc/).
 
 <figure class="third">
- <img src="/assets/img/pes.png" alt="drawing"/>
+ <img src="/assets/img/DA.png" alt="drawing"/>
 </figure>
 
 #### Key papers:
