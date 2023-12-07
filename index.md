@@ -19,6 +19,8 @@ Our research is focused around five main areas, three of which are connected by 
 
 ### News from the lab:
 
+> **12/07/2023**: New publication on unexcpected selectivity of glycosylation of 2-deoxy sugars had appeared in [Organic Letters](https://pubs.acs.org/doi/10.1021/acs.orglett.3c03607)! Congratulations to Ryan for contributing to this work. 
+
 > **11/13/2023**: New publication on conformational stability of S-glucosides has appeared in [The Journal of Organic Chemistry](https://pubs.acs.org/doi/10.1021/acs.joc.3c01156)! Congratulations to Ryan and Malika for contributing to this work. 
 
 > **10/26/2023**: Opportunities for Summer Research Experience for Undergraduate are available - inquire the PI. 

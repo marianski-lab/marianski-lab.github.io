@@ -7,6 +7,14 @@ layout: default
 ---
 ### ORCID: [0000-0002-6566-9931](http://orcid.org/0000-0002-6566-9931) & [Google Scholar](https://scholar.google.com/citations?user=UXI-3uUAAAAJ)
 
+#### 30. ''Origins of Selectivity in Glycosylation Reactions with Saccharosamine Donors''
+
+> B. Garreffi, R. W. Kwok, M. Marianski, C S. Bennett
+> _Organic Letters_, **2023**, ASAP
+> doi: [10.1021/acs.orglett.3c03607](https://pubs.acs.org/doi/10.1021/acs.orglett.3c03607)
+
+<img src="/assets/img/OL_Clay.png" alt="drawing" width="400" class="center"/>
+
 #### 29. ''Conformational Properties of Aryl S-Glucosides in Solution''
 
 > B. Deore, R. W. Kwok, M. Toregeldiyeva, J. T. Vázquez, M. Marianski, C. A. Sanhueza
