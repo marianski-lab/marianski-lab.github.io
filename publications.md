@@ -11,7 +11,7 @@ layout: default
 
 > Y. Zholdassov, R. W. Krow, M. A. Shlain, M. Patel, M. Marianski, A. B. Brauschweig
 > _RSC Mechanochemistry_ **2024**, 1, 11-32
-> doi: [10.1039/D3MR00018D][https://pubs.rsc.org/en/content/articlelanding/2024/mr/d3mr00018d]
+> doi: [10.1039/D3MR00018D](https://pubs.rsc.org/en/content/articlelanding/2024/mr/d3mr00018d)
 
 <img src="/assets/img/RSC_Mech_Rev.png" alt="drawing" width="400" class="center"/>
 

@@ -48,16 +48,16 @@ layout: default
 > <img src="/assets/img/RKwok.jpeg" alt="drawing" width="200" class="left" align="left"/>
 > ## <a href="mailto:rkwok@gradcenter.cuny.edu">Ryan Kwok</a> (Chem '27)
 >
-> **Research Interest:** Ryans uses methods of density-functional theory to investigate the effect of a molecular distortion on a reaction rates in reaction driven by a mechanical force. He's a part of [NSF CCI center for mechanochemistry][https://www.chem.tamu.edu/cmcc/]
+> **Research Interest:** Ryans uses methods of density-functional theory to investigate the effect of a molecular distortion on a reaction rates in reaction driven by a mechanical force. He's a part of [NSF CCI center for mechanochemistry])[https://www.chem.tamu.edu/cmcc/)]
 > 
 > **Methods:** Quantum chemical calculations (Gaussian16, FHI-aims and CP2K) and data analysis (Python).
 
  <br> 
 
-> <img src="/assets/img/DEssilfie.jpeg" alt="drawing" width="200" class="left" align="left"/>
+> <img src="/assets/img/DEssiflie.jpeg" alt="drawing" width="200" class="left" align="left"/>
 > ## <a href="mailto:dessilfie@gradcenter.cuny.edu">Deborah Essilfie</a> (Chem '28)
 >
-> **Research Interest:** Deborah investigates a force-induced mechanism-selectivity of simple organic reactions. She's a part of the [NSF CMCC center for mechanochemistry][https://www.chem.tamu.edu/cmcc/]
+> **Research Interest:** Deborah investigates a force-induced mechanism-selectivity of simple organic reactions. She's a part of the [NSF CMCC center for mechanochemistry](https://www.chem.tamu.edu/cmcc/)
 > 
 > **Methods:** Quantum chemical calculations (Gaussian16, ORCA, and CP2K) and data analysis (Python).
 
@@ -66,7 +66,7 @@ layout: default
 > <img src="/assets/img/DBello.png" alt="drawing" width="200" class="left" align="left"/>
 > ## <a href="mailto:dbello@gradcenter.cuny.edu">Diana Bello</a> (Chem '28)
 >
-> **Research Interest:** Diana work with molecular dynamics simulations of site-selective binding of the Synthetic Carbohydrate Receptors in biochemical context.
+> **Research Interest:** Diana works with molecular dynamics simulations to understand the mechanism of site-selective binding of the Synthetic Carbohydrate Receptors to glycoproteins in a biochemical context. 
 > 
 > **Methods:** Molecular Dynamics calculations (gromacs) and data analysis (Python).
 
