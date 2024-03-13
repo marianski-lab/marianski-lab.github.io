@@ -7,10 +7,19 @@ layout: default
 ---
 ### ORCID: [0000-0002-6566-9931](http://orcid.org/0000-0002-6566-9931) & [Google Scholar](https://scholar.google.com/citations?user=UXI-3uUAAAAJ)
 
+#### 31. ''Kinetics of primary mechanochemical covalent-bond-forming reactions''
+
+> Y. Zholdassov, R. W. Krow, M. A. Shlain, M. Patel, M. Marianski, A. B. Brauschweig
+> _RSC Mechanochemistry_ **2024**, 1, 11-32
+> doi: [10.1039/D3MR00018D][https://pubs.rsc.org/en/content/articlelanding/2024/mr/d3mr00018d]
+
+<img src="/assets/img/RSC_Mech_Rev.png" alt="drawing" width="400" class="center"/>
+
+
 #### 30. ''Origins of Selectivity in Glycosylation Reactions with Saccharosamine Donors''
 
 > B. Garreffi, R. W. Kwok, M. Marianski, C S. Bennett
-> _Organic Letters_, **2023**, ASAP
+> _Organic Letters_, **2023**, 25, 8856-8860
 > doi: [10.1021/acs.orglett.3c03607](https://pubs.acs.org/doi/10.1021/acs.orglett.3c03607)
 
 <img src="/assets/img/OL_Clay.png" alt="drawing" width="400" class="center"/>
@@ -18,7 +27,7 @@ layout: default
 #### 29. ''Conformational Properties of Aryl S-Glucosides in Solution''
 
 > B. Deore, R. W. Kwok, M. Toregeldiyeva, J. T. Vázquez, M. Marianski, C. A. Sanhueza
-> _The Journal of Organic Chemistry_, **2023**, ASAP
+> _The Journal of Organic Chemistry_, **2023**, 88, 15569-15579
 > doi: [10.1021/acs.joc.3c01156](https://doi.org/10.1021/acs.joc.3c01156)
 
 <img src="/assets/img/JOC_Chavez.jpeg" alt="drawing" width="400" class="center"/>

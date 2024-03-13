@@ -19,6 +19,12 @@ Our research is focused around five main areas, three of which are connected by 
 
 ### News from the lab:
 
+> **03/12/2024**: New review on [kinectics of covalent-bond forming reactions under mechanochemical conditions][https://pubs.rsc.org/en/content/articlelanding/2024/mr/d3mr00018d] just got published in the first issue of RSC Mechanochemistry journal  
+
+> **12/09/2023**: Congratulations to Ryan for winning the Schectman Award at the Chemistry Department for the best 1st-year graduate student. 
+
+> **12/08/2023**: Congratulations to Ryan for winning the [NanoBioNYC student award][https://www.nanobionyc.com/awards] for outstanding research and a great popularization of his science!
+
 > **12/07/2023**: New publication on unexcpected selectivity of glycosylation of 2-deoxy sugars had appeared in [Organic Letters](https://pubs.acs.org/doi/10.1021/acs.orglett.3c03607)! Congratulations to Ryan for contributing to this work. 
 
 > **11/13/2023**: New publication on conformational stability of S-glucosides has appeared in [The Journal of Organic Chemistry](https://pubs.acs.org/doi/10.1021/acs.joc.3c01156)! Congratulations to Ryan and Malika for contributing to this work. 
