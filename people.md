@@ -48,7 +48,7 @@ layout: default
 > <img src="/assets/img/RKwok.jpeg" alt="drawing" width="200" class="left" align="left"/>
 > ## <a href="mailto:rkwok@gradcenter.cuny.edu">Ryan Kwok</a> (Chem '27)
 >
-> **Research Interest:** Ryans uses methods of density-functional theory to investigate the effect of a molecular distortion on a reaction rates in reaction driven by a mechanical force. He's a part of [NSF CCI center for mechanochemistry])[https://www.chem.tamu.edu/cmcc/)]
+> **Research Interest:** Ryans uses methods of density-functional theory to investigate the effect of a molecular distortion on a reaction rates in reaction driven by a mechanical force. He's a part of [NSF CCI center for mechanochemistry](https://www.chem.tamu.edu/cmcc/)
 > 
 > **Methods:** Quantum chemical calculations (Gaussian16, FHI-aims and CP2K) and data analysis (Python).
 
@@ -81,13 +81,14 @@ layout: default
 
  <br>
 
-#> <img src="/assets/img/DDave.jpg" alt="drawing" width="200" class="left" align="left"/>
-#> ## <a href="mailto:ddave@gradcenter.cuny.edu">Dhwanit Dave</a> (Rein Ulijn group at ASRC)
-#>
-#> **Research Interest:** Understanding how supramolecular interactions of biological building blocks such as amino acids, peptides and carbohydrates. influences properties of materials with applications ranging from catalysis to food-additives. In order to achieve his goals, he uses combination of experimental (at ASRC) as well as computational methods.
-#>
-#> **Methods:** Molecular dynamics simulations (gromacs), quantum calculations (Gaussian16) and data analysis (Python).
+> <img src="/assets/img/DDave.jpg" alt="drawing" width="200" class="left" align="left"/>
+> ## <a href="mailto:ddave@gradcenter.cuny.edu">Dhwanit Dave</a> (Rein Ulijn group at ASRC)
+>
+> **Research Interest:** Understanding how supramolecular interactions of biological building blocks such as amino acids, peptides and carbohydrates. influences properties of materials with applications ranging from catalysis to food-additives. In order to achieve his goals, he uses combination of experimental (at ASRC) as well as computational methods.
+>
+> **Methods:** Molecular dynamics simulations (gromacs), quantum calculations (Gaussian16) and data analysis (Python).
 
+ <br> 
 
 ## Undergraduate students:
 
