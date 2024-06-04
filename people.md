@@ -94,11 +94,15 @@ layout: default
 
 > <img src="/assets/img/Hillel.jpeg" alt="drawing" width="150" class="left" align="left"/>
 > ### Hillel Lerner
-> **Researc Interest:** DFT simulations of bioconjugations reaction mechanisms.
+> **Research Interest:** DFT simulations of bioconjugations reaction mechanisms.
+>
+> **Methods:** DFT calculations in gaussian and data analysis in python. 
 
 > <img src="/assets/img/Nikola.jpeg" alt="drawing" width="150" class="left" align="left"/>
 > ### Nikola Pociask 
-> **Researc Interest:** MD simulations of bioconjugation reaction mechanism. 
+> **Research Interest:** MD simulations of bioconjugation reaction mechanism. 
+>
+> **Methods:** Molecular dynamics simulations in gromacs and data visualization in VMD.
 
 <!---
 > <img src="/assets/img/LVranga.jpeg" alt="drawing" width="150" class="left" align="left"/>
