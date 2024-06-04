@@ -92,11 +92,13 @@ layout: default
 
 ## Undergraduate students:
 
-
+> <img src="/assets/img/Hillel.jpeg" alt="drawing" width="150" class="left" align="left"/>
 > ### Hillel Lerner
+> **Researc Interest:** DFT simulations of bioconjugations reaction mechanisms.
 
+> <img src="/assets/img/Nikola.jpeg" alt="drawing" width="150" class="left" align="left"/>
 > ### Nikola Pociask 
-
+> **Researc Interest:** MD simulations of bioconjugation reaction mechanism. 
 
 <!---
 > <img src="/assets/img/LVranga.jpeg" alt="drawing" width="150" class="left" align="left"/>
@@ -141,7 +143,7 @@ layout: default
 - Yusef Wray (Graduated with Honors, currently a graduate student at Stony Brook)
 - Abner Kahan (Graduated with Honors, currently in the MD program)
 - Genrietta Yagdayeva (Graduated with Honors, currently a graduate student at St John's University)
-- Wonsuk Lee (Currently applying for Medical Schools) 
+- Wonsuk Lee (Currently applying for Dental Schools) 
 - Cesar Pabon (Currently Associate at Mercer) 
 - Benjamin Slater (HS -- Currently at University of Chicago) 
 
