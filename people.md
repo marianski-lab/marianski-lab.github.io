@@ -98,6 +98,8 @@ layout: default
 >
 > **Methods:** DFT calculations in gaussian and data analysis in python. 
 
+ <br> 
+
 > <img src="/assets/img/Nikola.jpeg" alt="drawing" width="150" class="left" align="left"/>
 > ### Nikola Pociask 
 > **Research Interest:** MD simulations of bioconjugation reaction mechanism. 
