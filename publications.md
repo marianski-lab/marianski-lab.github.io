@@ -7,6 +7,14 @@ layout: default
 ---
 ### ORCID: [0000-0002-6566-9931](http://orcid.org/0000-0002-6566-9931) & [Google Scholar](https://scholar.google.com/citations?user=UXI-3uUAAAAJ)
 
+#### 32. ''Reinvestigation of the internal glycan rearrangement of Lewis a and blood group type H1 epitopes''
+
+> V. Kontodimas, M. Yaman, K. Greis, M. Lettow, K. Pagel, M. Marianski
+> _Phys. Chem. Chem. Phys._ **2024**, 26, 14160-14170
+> doi:[10.1032/D3CP04491B](https://pubs.rsc.org/en/content/articlelanding/2024/cp/d3cp04491b)
+
+<img src='/assets/img/T1_ant.png' alt='drawing' width="400" class="center"/>
+
 #### 31. ''Kinetics of primary mechanochemical covalent-bond-forming reactions''
 
 > Y. Zholdassov, R. W. Krow, M. A. Shlain, M. Patel, M. Marianski, A. B. Brauschweig
