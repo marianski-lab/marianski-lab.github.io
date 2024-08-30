@@ -25,6 +25,11 @@ This project is a part of a new NSF CCI: [Center for the Mechanical Control of C
 
 #### Key papers:
 
+> [2] **''Kinetics of primary mechanochemical covalent-bond-forming reactions''**
+> Y. Zholdassov, R. W. Krow, M. A. Shlain, M. Patel, M. Marianski, A. B. Brauschweig
+> _RSC Mechanochemistry_ **2024**, 1, 11-32
+> doi: [10.1039/D3MR00018D](https://pubs.rsc.org/en/content/articlelanding/2024/mr/d3mr00018d)
+>
 > [1] **''Acceleration of Diels-Alder Reactions by Mechanical Distortion''**
 > Y. S. Zholdassov, L. Yuan, S. R. Garcia, R. W. Kwok, A. Boscoboinik, D. J. Valles, M. Marianski, A. Martini, R. W. Carpick, A. B. Braunschweig 
 > _Science_, **2023**, 380, p.~1053
@@ -70,6 +75,11 @@ group epitopes.[6] The computational work has also catalyzed the development of 
 
 #### Key papers:
 
+> [7] **''Reinvestigation of the internal glycan rearrangement of Lewis a and blood group type H1 epitopes''**
+> V. Kontodimas, M. Yaman, K. Greis, M. Lettow, K. Pagel, M. Marianski
+> _Phys. Chem. Chem. Phys._ **2024**, 26, 14160-14170
+> doi:[10.1032/D3CP04491B](https://pubs.rsc.org/en/content/articlelanding/2024/cp/d3cp04491b)
+>
 > [6] **''Decoding the Fucose Migration Product during Mass-Spectrometric Analysis of Blood Group Epitopes''**
 > M. Lettow, K. Greis, E. Mucha, T. R. Lambeth, M. Yaman, V. Kontodimas, C. Manz, W. Hoffmann, G. Meijer, R. R. Julian, G. von Helden, M. Marianski, K. Pagel
 >_Angewandte Chemie International Edition_ , **2023**, _Just Accepted_
