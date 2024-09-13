@@ -72,7 +72,7 @@ layout: default
 
  <br> 
 
-> <img src="/assets/img/EChung.png" alt="drawing" width="200" class="left" align="left"/>
+> <img src="/assets/img/EChung.jpeg" alt="drawing" width="200" class="left" align="left"/>
 > ## <a href="mailto:eugene.chung76@login.cuny.edu">Eugene Chung</a> (Chem '28)
 >
 > **Research Interest:** Eungene investigates the effect of sterectronic properties of protecting groups on the mechanism and resulting stereochemistyr of a glycosylation reaction. He is also responsible for maintaining and developing CarPpy. 
