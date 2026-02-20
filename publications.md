@@ -7,6 +7,62 @@ layout: default
 ---
 ### ORCID: [0000-0002-6566-9931](http://orcid.org/0000-0002-6566-9931) & [Google Scholar](https://scholar.google.com/citations?user=UXI-3uUAAAAJ)
 
+#### 39. ''Mechanistic study on the sulfate migration in glycosaminoglycans during MS fragmentation''
+
+> L. Polewski, M. Yaman, M. Tokić, M. Marianski, K. Pagel
+> _Commun. Chem._ **2026**, In Print
+> doi:[10.1038/s42004-026-01939-2](https://www.nature.com/articles/s42004-026-01939-2)
+
+<img src='/assets/img/42004_2026_1939_Figa_HTML.webp' alt='drawing' width="400" class="center"/>
+
+#### 38. ''Evaluating Participation Modes in Peracetylated Glycosyl Cations''
+
+> N. Geue, K. Greis, S. Omoregbee-Leichnitz, C. Kirschbaum, G. Meijer, G. von Helden, P. H. Seeberger, M. Marianski, K. Pagel
+> _Org. Lett._ **2026**, In Print
+> doi:[10.1021/acs.orglett.5c04756](https://doi.org/10.1021/acs.orglett.5c04756)
+
+<img src='/assets/img/images_large_ol5c04756_0006.jpeg' alt='drawing' width="400" class="center"/>
+
+#### 37. ''Monosaccharide Binding to Synthetic Carbohydrate Receptor Microarrays''
+
+> M. A. Shlain, K. E. Ndede, K. Thakur, A. J. Russo, S. Pasari, I. Nihal, K. L. Matos, Y. S. Zholdassov, M. Marianski, A. B. Braunschweig
+> _J. Phys. Chem. C_ **2025**, 129, 46, 20797–20808
+> doi:[10.1021/acs.jpcc.5c06186](https://doi.org/10.1021/acs.jpcc.5c06186)
+
+<img src='/assets/img/images_large_jp5c06186_0008.jpeg' alt='drawing' width="400" class="center"/>
+
+#### 36. ''Adaptive peptide dispersions enable drying-induced biomolecule encapsulation''
+
+> D. R Dave, S. Kassem, M. Coste, L. Xu, M. Tayarani-Najjaran, D. Podbevšek, P. Colon-De Leon, S. Zhang, L. O. Macias, D. Sementa, M. Pérez-Ferreiro, N. S. Ayati, M. A. Choudhury, K. Veerasammy, S. Doganata, T. Zhong, C. Weng, J. Morales, D. C. Favaro, M. Marianski, S. Y. Ahn, A. C. Obermeyer, T. Wang, T. Li, X. Chen, R. Tu, Y. He, R. V. Ulijn
+> _Nat. Mater._ **2025**, 24, 1465–1475
+> doi:[10.1038/s41563-025-02300-z](https://doi.org/10.1038/s41563-025-02300-z)
+
+<img src='/assets/img/41563_2025_2300_Fig1_HTML.webp' alt='drawing' width="400" class="center"/>
+
+#### 35. ''Broad-spectrum synthetic carbohydrate receptors (SCRs) inhibit viral entry across multiple virus families''
+
+> S. Ezzatpour, K. Thakur, K. E. Ndede, D. W. Buchholz, A. Choi, B. Imbiakha, J. Carter, D. Onofrei, B. Eaton, E. Postnikova, M. Murphy, B. C. Tapia, D. Bello, S. Pasari, A. Russo, M. Babayev, G. P. Holland, M. R. Holbrook, S. L. Caddy, S. J. Moran, S. M. Davachi, I. A. Monreal, J. Sahler, V. Ortega, J. M. Miranda, G. R. Whittaker, M. C. Jager, S. K. Bhagwat, P. Chopra, G. Jan-Boons, M. Marianski, A. B. Braunschweig, H. C. Aguilar
+> _Sci. Adv._ **2025**, 11, eady3554
+> doi:[10.1126/sciadv.ady3554](https://www.science.org/doi/10.1126/sciadv.ady3554)
+
+<img src='/assets/img/sciadv.ady3554-f1.jpg' alt='drawing' width="400" class="center"/>
+
+#### 34. ''Stereoelectronic Effect of Protecting Groups on the Stability of Galactosyl Donor Intermediates''
+
+> R. W. Kwok, R. Rutkoski, P. Nagorny, M. Marianski
+> _Molecules_ **2025**, 30(2), 218
+> doi:[10.3390/molecules30020218](https://www.mdpi.com/1420-3049/30/2/218)
+
+<img src='/assets/img/molecules-30-00218-ag.png' alt='drawing' width="400" class="center"/>
+
+#### 33. ''Harnessing the copper surface for direct mechanocatalysis: a case study on mechanochemical sulfonylurea synthesis''
+
+> K. R. Floyd, L. S. Mella, R. W. Kwok, M. Gray, E. J. Broker, M. Marianski, T. Friščić, J. D. Batteas
+> _Chem. Sci._ **2025**, 16, 19830-19842
+> doi:[10.1039/D5SC04099J](https://pubs.rsc.org/en/content/articlelanding/2025/sc/d5sc04099j)
+
+<img src='/assets/img/sulfonylurea.png' alt='drawing' width="400" class="center"/>
+
 #### 32. ''Reinvestigation of the internal glycan rearrangement of Lewis a and blood group type H1 epitopes''
 
 > V. Kontodimas, M. Yaman, K. Greis, M. Lettow, K. Pagel, M. Marianski
@@ -17,7 +73,7 @@ layout: default
 
 #### 31. ''Kinetics of primary mechanochemical covalent-bond-forming reactions''
 
-> Y. Zholdassov, R. W. Krow, M. A. Shlain, M. Patel, M. Marianski, A. B. Brauschweig
+> Y. Zholdassov, R. W. Kwok, M. A. Shlain, M. Patel, M. Marianski, A. B. Brauschweig
 > _RSC Mechanochemistry_ **2024**, 1, 11-32
 > doi: [10.1039/D3MR00018D](https://pubs.rsc.org/en/content/articlelanding/2024/mr/d3mr00018d)
 
