@@ -27,14 +27,14 @@ layout: default
 
 ## Graduate students:
 
-> <img src="/assets/img/BTapia.jpg" alt="drawing" width="200" class="left" align="left"/>
+<!-- > <img src="/assets/img/BTapia.jpg" alt="drawing" width="200" class="left" align="left"/>
 > ## <a href="mailto:btapia@gradcenter.cuny.edu">Beicer C. Tapia</a> (Biochem '24)
 >
 > **Research Interest:** (1) Principles of the molecular recognition between the syntehtic carbohydrate receptors and complex glycans and recognition of glycans as viable targets for synthetic molecules for sensors, drugs development and viral binding inhibition. (2) The sequence-structure relation in carbohydrates for discovery of novel carbohydrate-based materials.  
 >
 > **Methods:** Molecular dynamics simulations (gromacs) and data analysis (Python).
 
- <br>
+ <br> -->
 
 > <img src="/assets/img/MYaman.jpg" alt="drawing" width="200" class="left" align="left"/>
 > ## <a href="mailto:myaman@gradcenter.cuny.edu">Murat Yaman</a> (Biochem '25)
@@ -71,6 +71,7 @@ layout: default
 > **Methods:** Molecular Dynamics calculations (gromacs) and data analysis (Python).
 
  <br> 
+ <br>
 
 > <img src="/assets/img/EChung.jpeg" alt="drawing" width="200" class="left" align="left"/>
 > ## <a href="mailto:eugene.chung76@login.cuny.edu">Eugene Chung</a> (Chem '28)
@@ -81,30 +82,52 @@ layout: default
 
  <br>
 
-> <img src="/assets/img/DDave.jpg" alt="drawing" width="200" class="left" align="left"/>
-> ## <a href="mailto:ddave@gradcenter.cuny.edu">Dhwanit Dave</a> (Rein Ulijn group at ASRC)
->
-> **Research Interest:** Understanding how supramolecular interactions of biological building blocks such as amino acids, peptides and carbohydrates. influences properties of materials with applications ranging from catalysis to food-additives. In order to achieve his goals, he uses combination of experimental (at ASRC) as well as computational methods.
->
-> **Methods:** Molecular dynamics simulations (gromacs), quantum calculations (Gaussian16) and data analysis (Python).
-
- <br> 
-
-## Undergraduate students:
-
-> <img src="/assets/img/Hillel.jpeg" alt="drawing" width="150" class="left" align="left"/>
-> ### Hillel Lerner
+ > <img src="/assets/img/Hillel.jpeg" alt="drawing" width="200" class="left" align="left"/>
+> ## <a href="mailto:eugene.chung76@login.cuny.edu">Hillel Lerner</a> (Chem '30)
 > **Research Interest:** DFT simulations of bioconjugations reaction mechanisms.
 >
 > **Methods:** DFT calculations in gaussian and data analysis in python. 
 
+<br> 
+
+<!-- > <img src="/assets/img/DDave.jpg" alt="drawing" width="200" class="left" align="left"/>
+> ## <a href="mailto:ddave@gradcenter.cuny.edu">Dhwanit Dave</a> (Rein Ulijn group at ASRC)
+>
+> **Research Interest:** Understanding how supramolecular interactions of biological building blocks such as amino acids, peptides and carbohydrates. influences properties of materials with applications ranging from catalysis to food-additives. In order to achieve his goals, he uses combination of experimental (at ASRC) as well as computational methods.
+>
+> **Methods:** Molecular dynamics simulations (gromacs), quantum calculations (Gaussian16) and data analysis (Python). -->
+
  <br> 
+ <br> 
+
+## Undergraduate students:
 
 > <img src="/assets/img/Nikola.jpeg" alt="drawing" width="150" class="left" align="left"/>
 > ### Nikola Pociask 
 > **Research Interest:** MD simulations of bioconjugation reaction mechanism. 
 >
 > **Methods:** Molecular dynamics simulations in gromacs and data visualization in VMD.
+
+<br>
+<br>
+
+> <img src="/assets/img/lt.jpeg" alt="drawing" width="150" class="left" align="left"/>
+### Leah Tamayev
+> **Research Interest:** Mechanochemistry 
+>
+> **Methods:** Quantum chemical calculations (Gaussian16, ORCA, and CP2K), data analysis (Python) and coding (fortran, c++).
+
+<br>
+
+> <img src="/assets/img/ndeye_khadidiatou_mbodj.jpg" alt="drawing" width="140" class="left" align="left"/>
+### Ndeye Khadidiatou Mbodj
+> **Research Interest:** Mechanochemistry 
+>
+> **Methods:** Quantum chemical calculations (Gaussian16, ORCA, and CP2K), data analysis (Python) and coding (fortran, c++).
+
+<br>
+<br>
+<br>
 
 <!---
 > <img src="/assets/img/LVranga.jpeg" alt="drawing" width="150" class="left" align="left"/>
@@ -142,8 +165,14 @@ layout: default
 > **Methods:** Python
 -->
 
+
 ## Group alumni:
 
+### Former Graduate Students
+- Dr. Beicer C. Tapia Amaya (Graduated 2026)
+- Dr. Dhwanit Dave (Graduated 2024, Co-mentored. Currently a postdoc at Northwestern University)
+
+### Former Undergraduates
 - Lusila Vranga (Graduated with Honors, currently applying to PA schools) 
 - Vasilis Kontodimas (Graduated with Honors, currently at QA at Kings Industires, Specialty Chemicals)
 - Yusef Wray (Graduated with Honors, currently a graduate student at Stony Brook)
@@ -151,7 +180,10 @@ layout: default
 - Genrietta Yagdayeva (Graduated with Honors, currently a graduate student at St John's University)
 - Wonsuk Lee (Currently applying for Dental Schools) 
 - Cesar Pabon (Currently Associate at Mercer) 
-- Benjamin Slater (HS -- Currently at University of Chicago) 
+
+### Former High School Students
+- Malika Toregeldeva (Currently at Massachusetts Institute of Technology)
+- Benjamin Slater (Currently at University of Chicago) 
 
 
 [back](./)
