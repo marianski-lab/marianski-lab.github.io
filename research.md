@@ -49,7 +49,16 @@ Importantly, we demonstrated that the formation of this type of an intermediate 
 </figure>
 
 ####  Key papers:
-
+> [4] **''Evaluating Participation Modes in Peracetylated Glycosyl Cations''** 
+> N. Geue, K. Greis, S. Omoregbee-Leichnitz, C. Kirschbaum, G. Meijer, G. von Helden, P. H. Seeberger, M. Marianski, K. Pagel,
+> _Organic Letters_, **2026**, In Print
+> doi:[10.1021/acs.orglett.5c04756](https://doi.org/10.1021/acs.orglett.5c04756)
+>
+> [3] **''Stereoelectronic Effect of Protecting Groups on the Stability of Galactosyl Donor Intermediates''** 
+> R. W. Kwok, R. Rutkoski, P. Nagorny, M. Marianski,
+> _Molecules_, **2025**, 30(2), 218
+> doi:[10.3390/molecules30020218](https://www.mdpi.com/1420-3049/30/2/218)
+>
 > [2] **''Direct Evidence for Remote Participation in Galactose Building Blocks during Glycosylation Revealed by Cryogenic Vibrational Spectroscopy''** 
 > M. Marianski, E. Mucha, K. Greis, D. S. Moon, A. Pardo, C. Kirschbaum, D. A. Thomas, G. Meijer, G. von Helden, K. Gillmore, P. Seeberger, K. Pagel,
 > _Angewandte Chemie International Edition_, **2020**, 59, pp.~6166-6171
@@ -74,15 +83,19 @@ group epitopes.[6] The computational work has also catalyzed the development of 
 </figure>
 
 #### Key papers:
-
+> [8] **''Mechanistic study on the sulfate migration in glycosaminoglycans during MS fragmentation''**
+> L. Polewski, M. Yaman, M. Tokić, M. Marianski, K. Pagel,
+> _Communications Chemistry_, **2026**, In Print
+> doi:[10.1038/s42004-026-01939-2](https://www.nature.com/articles/s42004-026-01939-2)
+>
 > [7] **''Reinvestigation of the internal glycan rearrangement of Lewis a and blood group type H1 epitopes''**
-> V. Kontodimas, M. Yaman, K. Greis, M. Lettow, K. Pagel, M. Marianski
-> _Phys. Chem. Chem. Phys._ **2024**, 26, 14160-14170
+> V. Kontodimas, M. Yaman, K. Greis, M. Lettow, K. Pagel, M. Marianski,
+> _Physical Chemistry Chemical Physics_, **2024**, 26, 14160-14170
 > doi:[10.1032/D3CP04491B](https://pubs.rsc.org/en/content/articlelanding/2024/cp/d3cp04491b)
 >
 > [6] **''Decoding the Fucose Migration Product during Mass-Spectrometric Analysis of Blood Group Epitopes''**
 > M. Lettow, K. Greis, E. Mucha, T. R. Lambeth, M. Yaman, V. Kontodimas, C. Manz, W. Hoffmann, G. Meijer, R. R. Julian, G. von Helden, M. Marianski, K. Pagel
->_Angewandte Chemie International Edition_ , **2023**, _Just Accepted_
+>_Angewandte Chemie International Edition_, **2023**, e202302883
 >doi: [10.1002/ange.202302883](https://onlinelibrary.wiley.com/doi/10.1002/ange.202302883)
 >
 > [5] **''In-depth structural analysis of glycans in the gas phase''**
@@ -121,6 +134,11 @@ In collaboration with prof. Adam Braunschweig (ASRC CUNY), we have synthesized a
 </figure>
 
 #### Key papers:
+> [6] **''Broad-spectrum synthetic carbohydrate receptors (SCRs) inhibit viral entry across multiple virus families''**
+> S. Ezzatpour, K. Thakur, K. E. Ndede, D. W. Buchholz, A. Choi, B. Imbiakha, J. Carter, D. Onofrei, B. Eaton, E. Postnikova, M. Murphy, B. C. Tapia, D. Bello, S. Pasari, A. Russo, M. Babayev, G. P. Holland, M. R. Holbrook, S. L. Caddy, S. J. Moran, S. M. Davachi, I. A. Monreal, J. Sahler, V. Ortega, J. M. Miranda, G. R. Whittaker, M. C. Jager, S. K. Bhagwat, P. Chopra, G. Jan-Boons, M. Marianski, A. B. Braunschweig, H. C. Aguilar
+> _Science Advances_, **2025**, 11, eady3554
+> doi:[10.1126/sciadv.ady3554](https://www.science.org/doi/10.1126/sciadv.ady3554)
+>
 > [5] **''Binding of Synthetic Carbohydrate Receptors to Enveloped Virus Glycans: Insights From Molecular Dynamics Simulations''**
 > B. Tapia, G. Yagudayeva, M. F. Bravo, K. Thakur, A. B. Braunschweig, M. Marianski,
 >_Carbohydrate Research_ , **2022**, 518, pp. 108574

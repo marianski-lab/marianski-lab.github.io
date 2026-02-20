@@ -182,7 +182,7 @@ layout: default
 - Cesar Pabon (Currently Associate at Mercer) 
 
 ### Former High School Students
-- Malika Toregeldeva (Currently at Massachusetts Institute of Technology)
+- Malika Toregeldiyeva (Currently at Massachusetts Institute of Technology)
 - Benjamin Slater (Currently at University of Chicago) 
 
 
