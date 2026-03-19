@@ -69,26 +69,36 @@ layout: default
 > **Research Interest:** Diana works with molecular dynamics simulations to understand the mechanism of site-selective binding of the Synthetic Carbohydrate Receptors to glycoproteins in a biochemical context. 
 > 
 > **Methods:** Molecular Dynamics calculations (gromacs) and data analysis (Python).
+> <p>&nbsp;</p>
 
- <br> 
  <br>
 
 > <img src="/assets/img/EChung.jpeg" alt="drawing" width="200" class="left" align="left"/>
 > ## <a href="mailto:eugene.chung76@login.cuny.edu">Eugene Chung</a> (Chem '28)
 >
-> **Research Interest:** Eungene investigates the effect of sterectronic properties of protecting groups on the mechanism and resulting stereochemistyr of a glycosylation reaction. He is also responsible for maintaining and developing CarPpy. 
+> **Research Interest:** Eugene investigates the effect of sterectronic properties of protecting groups on the mechanism and resulting stereochemistyr of a glycosylation reaction. He is also responsible for maintaining and developing CarPpy. 
 > 
 > **Methods:** Quantum chemical calculations (Gaussian16, ORCA, and CP2K), data analysis (Python) and coding (fortran, c++).
 
  <br>
 
+ > <img src="/assets/img/DMarin-Gerdes.jpeg" alt="drawing" width="200" class="left" align="left"/>
+> ## <a href="mailto:Dafina.Marin-Gerdes@Hunter.cuny.edu">Dafina Marin-Gerdes</a> (Biochem '29)
+> **Research Interest:** MD simulations of bioconjugation reaction mechanisms.
+>
+> **Methods:** Molecular Dynamics calculations (gromacs) and data analysis (Python).
+> <p>&nbsp;</p>
+> <p>&nbsp;</p>
+
+<br>
+
  > <img src="/assets/img/Hillel.jpeg" alt="drawing" width="200" class="left" align="left"/>
-> ## <a href="mailto:eugene.chung76@login.cuny.edu">Hillel Lerner</a> (Chem '30)
+> ## <a href="mailto:hlerner@gradcenter.cuny.edu">Hillel Lerner</a> (Chem '30)
 > **Research Interest:** DFT simulations of bioconjugations reaction mechanisms.
 >
 > **Methods:** DFT calculations in gaussian and data analysis in python. 
-
-<br> 
+> <p>&nbsp;</p>
+> <p>&nbsp;</p>
 
 <!-- > <img src="/assets/img/DDave.jpg" alt="drawing" width="200" class="left" align="left"/>
 > ## <a href="mailto:ddave@gradcenter.cuny.edu">Dhwanit Dave</a> (Rein Ulijn group at ASRC)
@@ -97,7 +107,6 @@ layout: default
 >
 > **Methods:** Molecular dynamics simulations (gromacs), quantum calculations (Gaussian16) and data analysis (Python). -->
 
- <br> 
  <br> 
 
 ## Undergraduate students:
